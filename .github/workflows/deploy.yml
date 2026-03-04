@@ -17,7 +17,8 @@ jobs:
           cache: npm
 
       - run: npm ci
-      - run: npm run build
+      - run: npm run build:sass
+      - run: npm run build:eleventy
 
       - name: Deploy DE
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
