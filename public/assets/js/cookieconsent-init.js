@@ -1,5 +1,5 @@
 ﻿const ccLang = "de";
-const contactLink = "/kontakt";
+const contactLink = "/de/kontakt";
 const revisionLabel = "Cookie-Einstellungen";
 
 document.documentElement.classList.add("cc--darkmode");

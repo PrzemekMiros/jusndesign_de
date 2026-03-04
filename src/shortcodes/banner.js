@@ -6,7 +6,7 @@
                       <p class="mb-3 Unterüberschrift Farblicht">
                         ${contentText}
                       </p>
-                    <a href="/kontakt/" class="Button-Anim BTN-Write Magnetic MT-2 Einblendung" data-strength="40">
+                    <a href="/de/kontakt/" class="Button-Anim BTN-Write Magnetic MT-2 Einblendung" data-strength="40">
                         <div class="button-anim-text">
                             <span>Kontaktieren Sie uns </span>
                             <span>Kontaktieren Sie uns </span>
