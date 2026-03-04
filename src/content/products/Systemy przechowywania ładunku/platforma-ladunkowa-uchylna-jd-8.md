@@ -1,50 +1,49 @@
 ---
-lang: pl
+lang: de
 layout: "layouts/product.njk"
-permalink: /produkty/platforma-ladunkowa-uchylna-jd-8/
-title: Platforma ładunkowa uchylna JD8
-description: Uniwersalna platforma JD-8 Super Platform Pro do pick-upów wszystkich rozmiarów. Montaż bezinwazyjny i kompatybilność z wieloma popularnymi modelami.
+title: Kippbare Ladeplattform JD8
+description: Universelle JD-8 Super Platform Pro für Pickup-Trucks aller Größen. Nicht-invasive Installation und Kompatibilität mit vielen gängigen Modellen.
 productImage: /content/products/img/platformana-pake.jpg
 categories:
-  - Systemy przechowywania ładunku
+  - Ladungsspeichersysteme
 price: 0
 order: 3
 
 # Dane techniczne dla szablonu
 brand: JUSN
-material: Stop aluminium (6061), stal węglowa (Q235)
-process: Obróbka CNC, anodowanie oraz malowanie natryskowe
+material: Aluminiumlegierung (6061), Kohlenstoffstahl (Q235)
+process: CNC-Bearbeitung, Eloxieren und Spritzlackieren
 installation:
   difficulty: 2
   professional_required: false
-  method: Montaż bezinwazyjny (śrubowy)
+  method: Nicht-invasiver Einbau (Schraubmontage)
 ---
 
-Ten produkt jest kompatybilny z pick-upami wszystkich rozmiarów (dużymi, średnimi i małymi) oraz umożliwia montaż bez ingerencji w konstrukcję pojazdu.
+Dieses Produkt ist mit Tonabnehmern aller Größen (groß, mittel und klein) kompatibel und ermöglicht den Einbau ohne Eingriff in die Fahrzeugstruktur.
 
-### Kompatybilne modele:
-Platforma jest kompatybilna z wieloma modelami pick-upów, w tym m.in.:
-* JT
+### Kompatible Modelle:
+Die Plattform ist mit vielen Pickup-Truck-Modellen kompatibel, darunter:
+* J.T
 * Ford F-150 Raptor
 * RAM
 * Toyota Tundra
 * Ford Ranger
 * Toyota Tacoma
 * Toyota Hilux
-* Shark
-* inne modele pick-upów z odpowiednimi punktami montażowymi
+* Hai
+* andere Pick-up-Modelle mit entsprechenden Befestigungspunkten
 
-### Najważniejsze cechy
-* **Uniwersalne dopasowanie:** Przystosowana do pick-upów małych, średnich i dużych.
-* **Montaż bezinwazyjny:** Instalacja śrubowa bez wiercenia i trwałych modyfikacji pojazdu.
-* **Elastyczna konstrukcja:** Idealna do przewożenia bagażu, sprzętu wyprawowego i wyposażenia roboczego.
-* **Wytrzymała budowa:** Zaprojektowana do pracy w trudnych warunkach, w tym podczas jazdy off-road.
-
-
-JD-8 Super Platform Pro stanowi solidną bazę do stworzenia indywidualnego systemu transportowego dopasowanego do Twojego pick-upa.
+### Hauptmerkmale
+* **Universelle Passform:** Geeignet für kleine, mittlere und große Pickup-Trucks.
+* **Nicht-invasive Installation:** Schraubmontage ohne Bohren oder dauerhafte Änderungen am Fahrzeug.
+* **Flexibles Design:** Perfekt für den Transport von Gepäck, Expeditionsausrüstung und Arbeitsausrüstung.
+* **Robuste Konstruktion:** Entwickelt für den Einsatz unter schwierigen Bedingungen, einschließlich Fahrten im Gelände.
 
 
-<video controls preload="metadata" style="width: 100%; border-radius: 12px;">
+Die JD-8 Super Platform Pro ist eine solide Grundlage für die Erstellung eines individuellen, auf Ihren Pickup zugeschnittenen Transportsystems.
+
+
+<video steuert preload="metadata" style="width: 100%; border-radius: 12px;">
   <source src="/content/products/img/jd-8.mp4" type="video/mp4">
-  Twoja przeglądarka nie obsługuje odtwarzacza wideo.
+  Ihr Browser unterstützt den Videoplayer nicht.
 </video>

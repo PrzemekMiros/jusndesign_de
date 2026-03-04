@@ -1,44 +1,43 @@
 ---
-lang: pl
+lang: de
 layout: "layouts/product.njk"
-permalink: /produkty/zabudowa-bed-rack-jd2/
-title: Zabudowa bed rack JD2
-description: W przypadku gdy nie możemy zamontować zabudowy ponieważ wykorzystujemy powierzchnie ładunkową przewożąc na co dzień np motocykl lub inne ładunki, ale potrzebujemy dodatkowego miejsca do transportu mniejszych przedmiotów polecamy użycie bagażnika. 
+title: Installation des JD2-Bettgestells
+description: Wenn wir den Aufbau nicht montieren können, weil wir die Ladefläche zum Transport nutzen, z.B. Wenn wir täglich ein Motorrad oder andere Lasten tragen, wir aber zusätzlichen Platz für den Transport kleinerer Gegenstände benötigen, empfehlen wir die Verwendung eines Kofferraums.
 productImage: /content/products/img/tylny-bagaznik-cargo.jpg
 galleryImages:
   - /content/products/img/tylny-bagaznik-cargo2.png
 categories:
-  - Systemy przechowywania ładunku
+  - Ladungsspeichersysteme
 price: 0
 order: 2
 
 # Dane techniczne dla szablonu
 brand: JUSN
-material: Stop aluminium (6061), stal węglowa (Q235)
-process: Obróbka CNC, anodowanie oraz malowanie proszkowe
+material: Aluminiumlegierung (6061), Kohlenstoffstahl (Q235)
+process: CNC-Bearbeitung, Eloxieren und Pulverbeschichten
 weight: 30
-shippingInfo: Czas realizacji wynosi 15 dni, a transport morski wraz z transportem lądowym trwa około 40 dni.
+shippingInfo: Die Lieferzeit beträgt 15 Tage, der Seetransport zusammen mit dem Landtransport dauert etwa 40 Tage.
 installation:
   difficulty: 3
   professional_required: false
-  method: Dane OE – montaż typu Plug & Play
+  method: OE-Daten - Plug-&-Play-Montage
 ---
 
-Zabudowa nie wymaga demontażu rolety twojego pick upa.
+Für die Installation ist keine Demontage des Rollladens Ihres Pickups erforderlich.
 
-### Cechy produktu
+### Produktmerkmale
 
-* **Odporność na warunki atmosferyczne:** Specjalna powłoka anodowana i malowanie proszkowe chronią przed promieniowaniem UV, kwaśnym deszczem oraz korozją, zapewniając wieloletnią trwałość systemu zabudowy.
-* **Lekka i solidna konstrukcja:** Waga zaledwie 30 kg sprawia, że system jest idealnym wyborem do wymagających wypraw off-road - łączy mobilność z wytrzymałością.
-* **Praktyczny design:** Zewnętrzna część skrzyń posiada przemyślane otwory umożliwiające zawieszanie drobnych przedmiotów, dzięki czemu najpotrzebniejsze rzeczy są zawsze pod ręką.
-* **Przestrzeń do przechowywania:** 2 skrzynie zapewniają skuteczną ochronę przed deszczem i kurzem, umożliwiając uporządkowane przechowywanie mniejszych akcesoriów, takich jak kompresor, liny holownicze czy narzędzia naprawcze.
-* **Elastyczna przestrzeń użytkowa:** Konstrukcja pozwala na wygodne umieszczenie kanistrów z olejem lub wodą pod stelażem, podczas gdy bagaż może być bezpiecznie przewożony na górze – z łatwym dostępem.
+* **Beständigkeit gegenüber Witterungseinflüssen:** Spezielle Eloxalbeschichtungen und Pulverbeschichtungen schützen vor UV-Strahlung, saurem Regen und Korrosion und sorgen für eine langfristige Haltbarkeit des Bausystems.
+* **Leichte und solide Konstruktion:** Mit einem Gewicht von nur 30 kg ist das System eine ideale Wahl für anspruchsvolle Offroad-Expeditionen – es vereint Mobilität mit Langlebigkeit.
+* **Praktisches Design:** Der äußere Teil der Boxen verfügt über durchdachte Löcher zum Aufhängen kleiner Gegenstände, sodass die nötigsten Dinge immer griffbereit sind.
+* **Stauraum:** 2 Boxen bieten wirksamen Schutz vor Regen und Staub und ermöglichen die ordentliche Aufbewahrung kleinerer Zubehörteile wie Kompressor, Abschleppseile oder Reparaturwerkzeuge.
+* **Flexibel nutzbarer Raum:** Das Design ermöglicht es, Öl- oder Wasserkanister bequem unter dem Rahmen zu platzieren, während Gepäck darüber sicher transportiert werden kann – und das bei einfachem Zugriff.
 
 
 
-### Zawartość zestawu
-* System zabudowy – 1 komplet
+### Inhalte festlegen
+* Bausystem – 1 Satz
 
-### Informacje o wysyłce
-Waga zestawu: **30 kg**  
+### Versandinformationen
+Setgewicht: **30 kg**
 

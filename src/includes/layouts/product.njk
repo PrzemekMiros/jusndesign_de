@@ -1,4 +1,4 @@
-{% include "partials/header.njk" %}
+﻿{% include "partials/header.njk" %}
 
 <article class="product-page pt-xlarge">
   <div class="container">
@@ -17,14 +17,14 @@
             <img src="{{ productImage }}" alt="{{ title }}" class="main-image" data-product-main-image>
           </a>
           {% if galleryImages and galleryImages.length %}
-            <div class="gallery-thumbs" aria-label="Miniatury zdjęć produktu">
+            <div class="gallery-thumbs" aria-label="Miniaturansichten der Produktbilder">
               <button
                 type="button"
                 class="gallery-thumb is-active"
                 data-product-thumb
                 data-image-src="{{ productImage | url }}"
                 data-image-alt="{{ title }}"
-                aria-label="Pokaż zdjęcie 1"
+                aria-label="Foto 1 anzeigen"
               >
                 <img src="{{ productImage }}" alt="{{ title }} - 1" class="thumb-image rounded-md">
               </button>
@@ -35,7 +35,7 @@
                   data-product-thumb
                   data-image-src="{{ image | url }}"
                   data-image-alt="{{ title }} - {{ loop.index + 1 }}"
-                  aria-label="Pokaż zdjęcie {{ loop.index + 1 }}"
+                  aria-label="Foto anzeigen {{ loop.index + 1 }}"
                 >
                   <img src="{{ image }}" alt="{{ title }} - {{ loop.index + 1 }}" class="thumb-image rounded-md">
                 </button>
@@ -66,10 +66,10 @@
           </div>
 
           <div class="actions">
-            <a href="https://ore4x4.pl/pl/428-zabudowy-jusn" target="_blank" title="PrzejdLs do sklepu" class="button-anim btn-write magnetic mt-2 fade-in" data-strength="40">
+            <a href="https://ore4x4.pl/pl/428-zabudowy-jusn" target="_blank" title="Geh in den Laden" class="button-anim btn-write magnetic mt-2 fade-in" data-strength="40">
               <div class="button-anim-text">
-                <span>Przejdź do sklepu</span>
-                <span>Przejdź do sklepu</span>
+                <span>Geh in den Laden</span>
+                <span>Geh in den Laden</span>
               </div>
               <div class="button-anim-icon">
                 <svg height="18" viewBox="0 0 100 100" width="18" xmlns="http://www.w3.org/2000/svg" class="icon-link" style="enable-background:new 0 0 100 100" version="1.1" x="0px" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px">
@@ -80,10 +80,10 @@
                 </svg>
               </div>
             </a>
-            <a href="mailto:contact@jusndesigneurope.com?subject=Zapytanie o produkt: {{ title }}" title="Zapytaj o produkt" class="button-anim btn-write magnetic mt-2 fade-in" data-strength="40">
+            <a href="mailto:contact@jusndesigneurope.com?subject=Produktanfrage: {{ title }}" title="Fragen Sie nach dem Produkt" class="button-anim btn-write magnetic mt-2 fade-in" data-strength="40">
               <div class="button-anim-text">
-                <span>Zapytaj o produkt</span>
-                <span>Zapytaj o produkt</span>
+                <span>Fragen Sie nach dem Produkt</span>
+                <span>Fragen Sie nach dem Produkt</span>
               </div>
               <div class="button-anim-icon">
                 <svg height="18" viewBox="0 0 100 100" width="18" xmlns="http://www.w3.org/2000/svg" class="icon-link" style="enable-background:new 0 0 100 100" version="1.1" x="0px" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink" y="0px">
@@ -98,41 +98,41 @@
           </div>
 
           <div class="trust-badges">
-            <p>Gwarancja bezpiecznych zakupów</p>
+            <p>Garantiert sicher einkaufen</p>
           </div>
         </div>
       </div>
 
       <div class="product-details rounded-md bg-light-2 py-3 px-3 py-md-3 px-md-5 mt-5">
         <section class="details-tab">
-          <h2 class="section-title">Szczegóły produktu</h2>
+          <h2 class="section-title">Produktdetails</h2>
           
           <div class="specs-grid bg-light-1 p-4">
             <div class="spec-item small">
-              <strong>Materiał</strong> {{ material }}
+              <strong>Material</strong> {{ material }}
             </div>
 
              <div class="spec-item small">
-              <strong>Proces produkcji</strong> {{ process }}
+              <strong>Produktionsprozess</strong> {{ process }}
             </div>
 
             {% if capacityStatic %}
             <div class="spec-item small">
-              <strong>Nośność statyczna:</strong> 
+              <strong>Statische Belastbarkeit:</strong> 
               {{ capacityStatic }}
             </div>
             {% endif %}
 
             {% if capacityDynamic %}
             <div class="spec-item small">
-              <strong>Nośność dynamiczna:</strong> 
+              <strong>Dynamische Belastbarkeit:</strong> 
              {{ capacityDynamic }}
             </div>
             {% endif %}
 
             {% if weight %}
             <div class="spec-item small">
-              <strong>Waga:</strong> {{ weight }}
+              <strong>Gewicht:</strong> {{ weight }}
             </div>
             {% endif %}
           </div>
@@ -151,12 +151,12 @@
 
 <div class="lightbox" id="lightbox" aria-hidden="true">
   <div class="lightbox-backdrop" data-lightbox-close></div>
-  <div class="lightbox-content" role="dialog" aria-modal="true" aria-label="Zdjęcie produktu">
+  <div class="lightbox-content" role="dialog" aria-modal="true" aria-label="Fotoprodukt">
     <button type="button" class="lightbox-close" data-lightbox-close>X</button>
     <img src="" alt="" class="lightbox-image" id="lightbox-image">
-    <div class="lightbox-nav" aria-label="Nawigacja galerii">
-      <button type="button" class="lightbox-nav-btn" data-lightbox-prev aria-label="Poprzednie zdjęcie">Poprzednie</button>
-      <button type="button" class="lightbox-nav-btn" data-lightbox-next aria-label="Następne zdjęcie">Kolejne</button>
+    <div class="lightbox-nav" aria-label="Galerienavigation">
+      <button type="button" class="lightbox-nav-btn" data-lightbox-prev aria-label="Vorheriges Foto">Vorherige</button>
+      <button type="button" class="lightbox-nav-btn" data-lightbox-next aria-label="Nächstes Foto">Nächste</button>
     </div>
   </div>
 </div>

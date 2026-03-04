@@ -1,8 +1,7 @@
 ---
-lang: pl
-permalink: /produkty/skrzynka-wyprawowa-na-klape-jeep-wrangler-jl-jk-organizer/
-title: Skrzynia wyprawowa na klapę Jeep Wrangler JL / JK - Organizer 60L
-description: Aluminiowy organizer na tylną klapę do Jeepa Wranglera. Pojemność 60L, funkcja stolika, zintegrowane mocowanie kamery i tablicy.
+lang: de
+title: Expeditionsbox für Luke des Jeep Wrangler JL / JK – Organizer 60L
+description: Aluminium-Heckklappen-Organizer für Jeep Wrangler. 60L Fassungsvermögen, Tischfunktion, integrierte Kamera- und Whiteboard-Halterung.
 productImage: /content/products/img/skrzynka-narzedziowa.jpg
 galleryImages:
   - /content/products/img/skrzynka-montowana-na-klape-1.png
@@ -13,55 +12,55 @@ galleryImages:
   - /content/products/img/skrzynka-montowana-na-klape-6.jpg
 
 categories:
-  - Skrzynki montowane na tylną klapę
+  - An der Heckklappe montierte Boxen
 price: 2850
 order: 1
 
 # Dane techniczne dla szablonu
 brand: JUSN
-material: Stop aluminium (6061)
-process: Piaskowanie, anodowanie i malowanie proszkowe
+material: Aluminiumlegierung (6061)
+process: Sandstrahlen, Eloxieren und Pulverbeschichtungen
 weight: 18
-shippingInfo: Czas realizacji wynosi 15 dni. Wysyłka morska i lądowa zajmuje łącznie około 40 dni.
+shippingInfo: Die Bearbeitungszeit beträgt 15 Tage. Der See- und Landversand dauert insgesamt etwa 40 Tage.
 Installation:
   difficulty: 3
   professional_required: false
   method: Bezinwazyjny (wykorzystuje fabryczne otwory)
 ---
 
-**Uwaga:** Prosimy o kontakt i przesłanie numeru VIN pojazdu oraz zdjęcia klapy w celu weryfikacji kompatybilności (zestaw pasuje do wersji JL oraz JK).
+**Hinweis:** Bitte kontaktieren Sie uns und senden Sie die VIN-Nummer des Fahrzeugs und ein Foto der Luke, um die Kompatibilität zu überprüfen (das Set passt für die JL- und JK-Versionen).
 
-Innowacyjne rozwiązanie, które zamienia tylną klapę Twojego Jeepa w praktyczny schowek i stację roboczą. Zapomnij o problemach z ciężkim kołem zapasowym i denerwującym stukotem klapy.
+Eine innovative Lösung, die die Heckklappe Ihres Jeeps in einen praktischen Stauraum und Arbeitsplatz verwandelt. Vergessen Sie die Probleme eines schweren Reserverads und des lästigen Klapperns der Heckklappe.
 
-### Dlaczego warto wybrać JUSN?
-Rozwiązuje problem obciążonej klapy, ułatwiając jej zamykanie, oraz eliminuje irytujące grzechotanie i luzy, które pojawiają się w miarę starzenia się pojazdu.
+### Warum JUSN wählen?
+Es löst das Problem einer beladenen Heckklappe, erleichtert das Schließen und eliminiert das lästige Klappern und Lockern, das mit zunehmendem Alter eines Fahrzeugs auftritt.
 
-### Szczegóły techniczne:
-* **MATERIAŁ:** Lekki i sztywny stop aluminium (6061).
-* **POJEMNOść:** 60 litrów przestrzeni bagażowej.
-* **PROCES:** Zaawansowane piaskowanie i anodowanie – odporność na UV i kwaśne deszcze.
+### Technische Details:
+* **MATERIAL:** Leichte und steife Aluminiumlegierung (6061).
+* **KAPAZITÄT:** 60 Liter Gepäckraum.
+* **VERFAHREN:** Fortschrittliches Sandstrahlen und Eloxieren – Beständigkeit gegen UV-Strahlung und saure Regen.
 
-### Główne cechy:
-* **Niezawodna jakość:** Wykonany z aluminium lotniczego, nie rdzewieje i zachowuje estetyczny wygląd przez lata, nawet w trudnych warunkach terenowych.
-* **Imponujący udźwig:** Konstrukcja jest na tyle wytrzymała, że dorosła osoba może na niej stanąć, aby sięgnąć do bagażnika dachowego. Antypoślizgowa powierzchnia zapewnia bezpieczeństwo.
-* **Lekkość:** Zoptymalizowana waga sprawia, że nawet dziecko poradzi sobie z domknięciem klapy.
-* **Wszechstronność (Stolik kawowy):** W kilka sekund zmienisz skrzynię w mini stolik lub bar. Idealne rozwiązanie na kemping, piknik lub jako mobilna stacja do gotowania.
-* **Szczelność:** Grube uszczelki skutecznie blokują kurz i deszcz, utrzymując narzędzia i sprzęt w czystości.
-* **Gotowe rozszerzenia:** Zintegrowany uchwyt na tablicę rejestracyjną, wspornik kamery cofania oraz fabryczne otwory na maszt flagowy i dodatkowe światło STOP.
-* **Bezinwazyjny montaż:** Precyzyjne dopasowanie do oryginalnych otworów w klapie Jeepa – brak konieczności wiercenia i naruszania struktury pojazdu.
-* **Organizacja 60L:** Wnętrze podzielone na 3 sekcje, idealne na kanistry z paliwem, liny kinetyczne i zestawy naprawcze.
-* **Zabezpieczenie:** Solidny zamek z osłoną przeciwpyłową chroni Twoje mienie przed kradzieżą i zabrudzeniem mechanizmu.
+### Hauptmerkmale:
+* **Zuverlässige Qualität:** Hergestellt aus Flugzeugaluminium, rostet es nicht und behält sein ästhetisches Aussehen über Jahre hinweg, selbst unter schwierigen Feldbedingungen.
+* **Beeindruckende Tragfähigkeit:** Die Struktur ist stark genug, dass ein Erwachsener darauf stehen kann, um den Dachträger zu erreichen. Die rutschfeste Oberfläche sorgt für Sicherheit.
+* **Leichtigkeit:** Durch das optimierte Gewicht kann sogar ein Kind die Klappe schließen.
+* **Vielseitigkeit (Couchtisch):** In wenigen Sekunden können Sie die Truhe in einen Minitisch oder eine Bar verwandeln. Perfekt für Camping, Picknick oder als mobile Kochstation.
+* **Dichtigkeit:** Dicke Dichtungen blockieren effektiv Staub und Regen und halten Werkzeuge und Geräte sauber.
+* **Fertige Erweiterungen:** Integrierter Kennzeichenhalter, Rückfahrkamerahalterung und werkseitige Löcher für einen Fahnenmast und ein zusätzliches Bremslicht.
+* **Nicht-invasive Installation:** Präzise Passung in die Originallöcher im Luke des Jeeps – kein Bohren oder Beeinträchtigung der Fahrzeugstruktur erforderlich.
+* **60L-Organisation:** Innenraum in 3 Abschnitte unterteilt, perfekt für Kraftstoffkanister, kinetische Seile und Reparatursets.
+* **Sicherheit:** Ein solides Schloss mit Staubschutz schützt Ihr Eigentum vor Diebstahl und Schmutz am Mechanismus.
 
-### Informacje o montażu:
-* **Dopasowanie:** Dane zgodne z fabrycznymi (OE) – instalacja typu "Plug & Play".
-* **Poziom trudności:** 3/5.
-* **Bezinwazyjny montaż:** Tak (Lossless Installation).
-* **Zalecany montaż profesjonalny:** Tak, jeśli nie masz doświadczenia w pracach manualnych.
+### Informationen zur Montage:
+* **Ausstattung:** Daten stimmen mit der Fabrik (OE) überein – „Plug & Play“-Installation.
+* **Schwierigkeitsgrad:** 3/5.
+* **Nicht-invasive Installation:** Ja (verlustfreie Installation).
+* **Professionelle Installation empfohlen:** Ich, wenn Sie keine Erfahrung mit manuellem Arbeiten haben.
 
-### Zawartość zestawu:
-* Skrzynia wyprawowa na klapę (Tailgate Toolbox) – 1 komplet.
+### Inhalt des Sets:
+* Heckklappen-Werkzeugkasten – 1 Satz.
 
-**Wskazówka wyprawowa:** Dzięki funkcji stolika, ten organizer jest jednym z najczęściej wybieranych akcesoriów przez osoby budujące Jeepy pod Overland.
+**Expeditionstipp:** Dank der Tischfunktion ist dieser Organizer eines der am häufigsten ausgewählten Zubehörteile von Leuten, die Jeeps in Overland bauen.
 
 
 

@@ -1,4 +1,4 @@
-﻿function appMain() {
+function appMain() {
   
 	if (document.body && document.body.dataset.megaNavLock === "true") {
 		delete document.body.dataset.megaNavLock;
@@ -219,8 +219,7 @@
 			if (statusEl) statusEl.innerHTML = "";
 
 			const formData = new FormData(form);
-			const lang = (formData.get("form_lang") || "pl").toString().toLowerCase();
-			const successRedirect = lang === "en" ? "/en/sendform/" : "/wyslano-formularz/";
+			const successRedirect = "/formular-gesendet/";
 
 			fetch(form.action, {
 				method: "POST",

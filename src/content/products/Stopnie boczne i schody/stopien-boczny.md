@@ -1,8 +1,7 @@
 ---
-lang: pl
-permalink: /produkty/progi-boczne-stopnie-ford-bronco-2021-2025/
-title: Progi boczne (Stopnie) do Ford Bronco 2021-2025 
-description: Solidne progi boczne JUSN do Forda Bronco. Konstrukcja z aluminium i stali Q235, antypoślizgowa powierzchnia CNC i udźwig ponad 220 kg.
+lang: de
+title: Seitenschweller (Stufen) für Ford Bronco 2021-2025
+description: Solide JUSN-Seitenschweller für Ford Bronco. Konstruktion aus Aluminium und Q235-Stahl, rutschfeste CNC-Oberfläche und Tragfähigkeit von über 220 kg.
 productImage: /content/products/img/stopien-boczny.jpg
 galleryImages:
   - /content/products/img/progi-boczne-ford-bronco-1.png
@@ -11,52 +10,52 @@ galleryImages:
   - /content/products/img/progi-boczne-ford-bronco-4.png
 
 categories:
-  - Progi boczne i stopnie
+  - Seitenschweller und Trittstufen
 price: 1999
 order: 1
 
 # Dane techniczne dla szablonu
 brand: JUSN
-material: Stop aluminium (6061), Stal weglowa (Q235)
-process: Obróbka CNC, powłoka elektroforetyczna oraz lakierowanie natryskowe
+material: Aluminiumlegierung (6061), Kohlenstoffstahl (Q235)
+process: CNC-Bearbeitung, elektrophoretische Beschichtung und Spritzlackierung
 weight: 25
-shippingInfo: Czas realizacji zamówienia wynosi 15 dni. Wysyłka morska i lądowa zajmuje łącznie około 40 dni.
+shippingInfo: Die Bearbeitungszeit der Bestellung beträgt 15 Tage. Der See- und Landversand dauert insgesamt etwa 40 Tage.
 Installation:
   difficulty: 3
   professional_required: false
-  method: Bez wiercenia (No Driżing) - Plug & Play
+  method: Ohne Bohren (No Drilling) - Plug & Play
 ---
 
 
-### Cechy:
-* **Łatwy montaz:** Bez wiercenia i bez cięcia.
-* **Niezawodność działania:** Klasyczna, mechaniczna konstrukcja oznacza mniej awarii w porównaniu do elektrycznych progów wysuwanych.
-* **Szybki montaż i demontaż:** Możliwość łatwego przełączania między użytkowaniem miejskim a off-roadowym.
-* **Powierzchnia antypoślizgowa:** Obróbka CNC zapewnia doskonałą przyczepność i bezpieczeństwo.
-* **Wysoka wytrzymałość:** Wykonane ze stali węglowej Q235, o nośności minimum 350 lbs (ok. 160 kg).
-* **Regulacja położenia:** Możliwość zmiany pozycji montażu według potrzeb, bez obniżania prześwitu pojazdu.
-* **Lekka konstrukcja i łatwe czyszczenie:** Pusta (ażurowa) struktura redukuje wagę i ułatwia mycie.
-* **Dla każdego użytkownika:** Odpowiednie dla kierowców, kobiet w ciąży, dzieci, seniorów oraz osób z ograniczoną mobilnością.
+### Eigenschaften:
+* **Einfache Installation:** Kein Bohren oder Schneiden erforderlich.
+* **Betriebssicherheit:** Das klassische, mechanische Design bedeutet weniger Ausfälle im Vergleich zu elektrisch versenkbaren Schwellen.
+* **Schneller Auf- und Abbau:** Einfacher Wechsel zwischen Stadt- und Geländeeinsatz.
+* **Anti-Rutsch-Oberfläche:** CNC-Bearbeitung sorgt für hervorragenden Halt und Sicherheit.
+* **Hohe Festigkeit:** Hergestellt aus Q235-Kohlenstoffstahl, mit einer Mindesttragfähigkeit von 350 lbs (ca. 160 kg).
+* **Positionsanpassung:** Möglichkeit, die Montageposition je nach Bedarf zu ändern, ohne die Bodenfreiheit des Fahrzeugs zu verringern.
+* **Leichte Konstruktion und einfache Reinigung:** Die hohle (durchbrochene) Struktur reduziert das Gewicht und erleichtert die Reinigung.
+* **Für einen Benutzer:** Geeignet für Fahrer, Schwangere, Kinder, Senioren und Personen mit eingeschränkter Mobilität.
 
-### Instalacja:
-* **Dopasowanie:** Dane zgodne z fabrycznym wyposazeniem (OE) – „Install and Play”.
-* **Poziom trudnosci:** 2 gwiazdki (w skali do 5).
-* **Wymagany profesjonalny montaż** NIE.
-* **Bezinwazyjny montaz:** TAK.
-
-
-### Informacje o montażu:
-* **Dopasowanie:** Oparte na fabrycznych danych Forda (OE) – montaż typu "zamontuj i używaj".
-* **Poziom trudności:** 3/5 (średniozaawansowany).
-* **Bezinwazyjny montaż:** Tak (wykorzystuje fabryczne otwory).
-* **Zalecany montaż profesjonalny:** Tak, jeśli nie masz doświadczenia w pracach warsztatowych.
-
-### Zawartość zestawu:
-* Progi boczne (Running Boards) – 1 para (lewy + prawy).
+### Installation:
+* **Ausstattung:** Daten entsprechen der Werksausrüstung (OE) – „Install and Play“.
+* **Schwierigkeitsgrad:** 2 Sterne (von 5).
+* **Professionelle Installation erforderlich** NEIN.
+* **Nicht-invasive Installation:** ME.
 
 
-**Uwaga dotycząca kompatybilności:**
-Progi są dostosowane do modeli Ford Bronco (2021-2025). Prosimy o informację, czy auto posiada fabryczne rock railsy, abyśmy mogli dobrać odpowiedni zestaw montażowy.
+### Informationen zur Montage:
+* **Ausstattung:** Basierend auf Ford-Werksdaten (OE-Daten) – „Fit-and-Play“-Installation.
+* **Schwierigkeitsgrad:** 3/5 (mittel).
+* **Nicht-invasive Installation:** Ja (verwendet werkseitige Löcher).
+* **Professioneller Einbau empfohlen:** Ich, wenn Sie keine Erfahrung in der Werkstattarbeit haben.
+
+### Inhalt des Sets:
+* Seitenschweller (Trittbretter) – 1 Paar (links + rechts).
+
+
+**Kompatibilitätshinweis:**
+Die Einstiegsleisten sind an Ford Bronco-Modelle (2021-2025) angepasst. Bitte teilen Sie uns mit, ob das Fahrzeug serienmäßig mit Rock Rails ausgestattet ist, damit wir den passenden Einbausatz auswählen können.
 
 
 

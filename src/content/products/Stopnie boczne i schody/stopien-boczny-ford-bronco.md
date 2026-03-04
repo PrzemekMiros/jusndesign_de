@@ -1,57 +1,56 @@
 ---
-lang: pl
+lang: de
 layout: "layouts/product.njk"
-permalink: /produkty/progi-boczne-i-stopnie-ford-bronco-2021-2025/
-title: Progi Boczne i Stopnie do Ford Bronco (2021-2025) - Slidery 4 szt.
-description: Profesjonalne stopnie boczne JUSN do Forda Bronco. Montaz bez wiercenia, antyposlizgowa powierzchnia CNC, udzwig 160kg. Komplet 4 sztuk.
+title: Seitenschweller und Trittstufen für Ford Bronco (2021-2025) – Schieber 4 Stk.
+description: Professioneller Trittbretter von JUSN für Ford Bronco. Montage ohne Bohren, rutschfeste CNC-Oberfläche, Tragkraft 160 kg. Set bestehend aus 4 Stück.
 productImage: /content/products/img/stopienboczny.jpg
 categories:
-  - Progi boczne i stopnie 2
+  - Seitenschweller und Trittstufen 2
 price: 899
 order: 1
 
 # Dane techniczne dla szablonu
 brand: JUSN
-material: Stop aluminium (6061), Stal weglowa (Q235)
-process: Obróbka CNC, powłoka elektroforetyczna oraz lakierowanie natryskowe
+material: Aluminiumlegierung (6061), Kohlenstoffstahl (Q235)
+process: CNC-Bearbeitung, elektrophoretische Beschichtung und Spritzlackierung
 weight: 15
-shippingInfo: Czas realizacji wynosi 15 dni, transport morski i ladowy zajmuje okolo 40 dni.
+shippingInfo: Die Vorlaufzeit beträgt 15 Tage, der See- und Landtransport dauert etwa 40 Tage.
 Installation:
   difficulty: 2
   professional_required: false
   method: Dopasowanie OE - Bez wiercenia i ciecia
 ---
 
-## Progi boczne Jusn – Ford Bronco 2021–2025
+## Seitenschweller – Ford Bronco 2021–2025
 
-Wytrzymałe progi boczne Jusn to rozwiązanie stworzone z myślą o pojazdach terenowych użytkowanych w ciężkich warunkach. Ułatwiają wsiadanie do auta z liftem zawieszenia, zapewniają wygodny dostęp do bagażnika dachowego oraz zwiększają komfort codziennego użytkowania.
+Die langlebigen Jusn-Seitenschweller sind eine Lösung für Geländefahrzeuge, die unter schwierigen Bedingungen eingesetzt werden. Sie erleichtern den Einstieg in ein Auto mit Höherlegung, ermöglichen einen bequemen Zugang zum Dachträger und erhöhen den Komfort im Alltag.
 
-Konstrukcja oparta na aluminium 6061 oraz stali węglowej Q235 łączy niską masę z wysoką odpornością mechaniczną, co ma kluczowe znaczenie w pojazdach wyprawowych i użytkowych.
+Die auf 6061-Aluminium und Q235-Kohlenstoffstahl basierende Struktur kombiniert geringes Gewicht mit hoher mechanischer Beständigkeit, was bei Expeditions- und Nutzfahrzeugen von entscheidender Bedeutung ist.
 
-### Najważniejsze cechy
+### Hauptmerkmale
 
-- Solidna konstrukcja z aluminium 6061 i stali Q235
-- Wysoka nośność – do ok. 160 kg (350 lbs)
-- Antypoślizgowa powierzchnia CNC zapewniająca pewny stopień w każdych warunkach
-- Lekka, a jednocześnie bardzo trwała konstrukcja
-- Regulowana pozycja montażu bez obniżania prześwitu pojazdu
-- Nowoczesny design dopasowany do stylistyki pojazdów 4x4
+- Solide Konstruktion aus 6061 Aluminium und Q235-Stahl
+- Hohe Belastbarkeit – bis ca. 160 kg (350 Pfund)
+- Rutschfeste CNC-Oberfläche für sicheren Halt unter allen Bedingungen
+- Leichte und gleichzeitig sehr langlebige Konstruktion
+- Einstellbare Montageposition ohne Verringerung der Bodenfreiheit des Fahrzeugs
+- Modernes Design abgestimmt auf den Stil von 4x4-Fahrzeugen
 
-Ażurowa konstrukcja redukuje masę, ułatwia czyszczenie z błota i śniegu oraz zapobiega gromadzeniu się zanieczyszczeń podczas jazdy off-road.
+Die durchbrochene Struktur reduziert das Gewicht, erleichtert die Reinigung von Schlamm und Schnee und verhindert die Ansammlung von Schmutz beim Fahren im Gelände.
 
-### Technologia i wykonanie
+### Technik und Ausführung
 
-Produkt powstaje w procesie precyzyjnej obróbki CNC, elektropowlekania oraz malowania proszkowego. Zapewnia to wysoką odporność na korozję, uszkodzenia mechaniczne oraz trudne warunki atmosferyczne.
+Das Produkt wird mit CNC-Bearbeitung, Elektrobeschichtung und Pulverbeschichtung hergestellt. Dies gewährleistet eine hohe Beständigkeit gegen Korrosion, mechanische Beschädigungen und schwierige Witterungsbedingungen.
 
-Konstrukcja mechaniczna (bez elektryki) gwarantuje większą niezawodność w porównaniu do progów elektrycznych, szczególnie w zastosowaniach terenowych i ekspedycyjnych.
+Das mechanische Design (keine Elektrik) garantiert eine höhere Zuverlässigkeit im Vergleich zu elektrischen Schwellen, insbesondere im Offroad- und Expeditionsbereich.
 
-### Montaż
+### Installation
 
-- Montaż typu plug & play (bez wiercenia i cięcia)
-- Dopasowanie do fabrycznych punktów montażowych
-- Szybka instalacja i możliwość demontażu
-- Niski poziom trudności montażu
+- Plug & Play-Installation (kein Bohren oder Schneiden erforderlich)
+- Anpassung an werkseitige Befestigungspunkte
+- Schnelle Montage und Demontage
+- Geringer Montageschwierigkeitsgrad
 
-### Zastosowanie
+### Anwendung
 
 - Ford Bronco 2021–2025

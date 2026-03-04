@@ -1,19 +1,19 @@
 ---
-lang: pl
-title: Organizery bocznych schowków zabudów
-description: Organizery bocznych schowków zabudów - maksymalne wykorzystanie przestrzeni i lepsza organizacja ładunku w Twoim pickupie.
-category: Organizery bocznych schowków zabudów
+lang: de
+title: Organizer für seitliche Staufächer
+description: Organizer für seitliche Staufächer - maximale Raumnutzung und bessere Organisation der Ladung in Ihrem Pickup.
+category: Organizer für seitliche Staufächer
 ---
 
 <section class="pt-xlarge products-category">
 <div class="container">
-  {% set breadcrumbHome = "Strona główna" %}
-  {% set breadcrumbOffer = "Oferta" %}
-  {% set breadcrumbOfferUrl = "/oferta/" %}
+  {% set breadcrumbHome = "Startseite" %}
+  {% set breadcrumbOffer = "Angebot" %}
+  {% set breadcrumbOfferUrl = "/angebot/" %}
   {% if lang == "en" %}
-  {% set breadcrumbHome = "Home" %}
-  {% set breadcrumbOffer = "Offer" %}
-  {% set breadcrumbOfferUrl = "/offer/" %}
+  {% set breadcrumbHome = "Heim" %}
+  {% set breadcrumbOffer = "Angebot" %}
+  {% set breadcrumbOfferUrl = "/angebot/" %}
   {% endif %}
   <nav class="breadcrumbs uppercase small color-accent-1">
     <a href="{{ langPrefix }}/">{{ breadcrumbHome }}</a>
@@ -28,11 +28,11 @@ category: Organizery bocznych schowków zabudów
       <div class="row g-1 g-md-5">
         <div class="col-md-4">
           <div class="description-content">
-            <h2 class="mt-3">Organizery </h2>
+            <h2 class="mt-3">Organisatoren </h2>
           </div>
         </div>
         <div class="col-md-8">
-             <p class="mb-2">Organizery dopasowane rozmiarem do schowków zabudowy umożliwiają zwiększenie powierzchni ładunkowej, ale również utrzymanie porządku co znacznie poprawia komfort podróżowania. Można je łatwo wyjmować ze schowka dlatego mobilność, estetyka i najwyższa jakość wykonania to istotne atuty tego produktu.</p>
+             <p class="mb-2">Organizer, die auf die Staufächer des Aufbaus abgestimmt sind, ermöglichen eine Vergrößerung der Ladefläche, sorgen aber auch für Ordnung, was den Reisekomfort deutlich verbessert. Sie lassen sich leicht aus dem Staufach entnehmen, sodass Mobilität, Ästhetik und höchste Verarbeitungsqualität wichtige Vorteile dieses Produkts sind.</p>
         </div>
       </div>
     </div>
@@ -48,7 +48,7 @@ category: Organizery bocznych schowków zabudów
           {% productImage product.data.productImage, product.data.title %}
           <div class="product-card-content p-4 bg-light-1">
           <h3 class="h4 mt-0 line-clamp-3">{{ product.data.title }}</h3>
-          <a href="{{ product.url | url }}" class="color-accent-1 small">Zobacz więcej &rarr;</a>
+          <a href="{{ product.url | url }}" class="color-accent-1 small">Weitere &rarr;</a>
           </div>
         </article>
         </a>
@@ -56,7 +56,7 @@ category: Organizery bocznych schowków zabudów
       {% endfor %}
     </div>
   {% else %}
-    <p>Brak produktów w tej kategorii.</p>
+    <p>In diesen Kategorien sind keine Produkte vorhanden.</p>
   {% endif %}
   </div>
 </section>
@@ -86,13 +86,13 @@ category: Organizery bocznych schowków zabudów
               {% endfor %} 
             </div>
           </div>
-          <button class="magnetic swiper-gal swiper-button-prev fade-in" data-strength="60" tabindex="0" aria-label="Previous slide">
+          <button class="magnetic swiper-gal swiper-button-prev fade-in" data-strength="60" tabindex="0" aria-label="Vorherige Folien">
             <svg viewBox="0 0 61 61" width="61" height="61" fill="none">
               <circle cx="30.5" cy="30.5" r="30" stroke="var(--color-dark-2)"></circle>
               <path d="M34.5 24L27 31.5L34.5 39" stroke-width="2" stroke="var(--color-dark-2)"></path>
             </svg>
           </button>
-          <button class="magnetic swiper-gal swiper-button-next fade-in" data-strength="60" tabindex="0" aria-label="Next slide">
+          <button class="magnetic swiper-gal swiper-button-next fade-in" data-strength="60" tabindex="0" aria-label="Nächste Folie">
             <svg viewBox="0 0 61 61" width="61" height="61" fill="none">
               <circle cx="30.5" cy="30.5" r="30" stroke="var(--color-dark-2)"></circle>
               <path d="M28 24L35.5 31.5L28 39" stroke-width="2" stroke="var(--color-dark-2)"></path>

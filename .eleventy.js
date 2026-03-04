@@ -52,7 +52,7 @@ module.exports = function(eleventyConfig) {
       if (!collection) {
         return [];
       }
-      return collection.filter(item => (item.data.lang || "en") === lang);
+      return collection.filter(item => (item.data.lang || "de") === lang);
     });
 
     eleventyConfig.addFilter("toPlUrl", function(url) {
@@ -60,22 +60,6 @@ module.exports = function(eleventyConfig) {
         return "/";
       }
       return url.replace(/^\/en(\/|$)/, "/");
-    });
-
-    eleventyConfig.addFilter("toEnUrl", function(url) {
-      if (!url) {
-        return "/en/";
-      }
-      if (url === "/en") {
-        return "/en/";
-      }
-      if (url.startsWith("/en/")) {
-        return url;
-      }
-      if (url.startsWith("/")) {
-        return `/en${url}`;
-      }
-      return `/en/${url}`;
     });
 
     const getOrderValue = (item) => {
@@ -112,7 +96,7 @@ eleventyConfig.addCollection("productCategories", (collection) => {
   const categories = {};
 
   products.forEach(product => {
-    const lang = product.data.lang || "en";
+    const lang = product.data.lang || "de";
     const cats = product.data.categories || [];
 
     if (!categories[lang]) {

@@ -1,19 +1,19 @@
 ---
-lang: pl
-title: Zabudowy BASR
-description: Zabudowy BASR – solidne i funkcjonalne systemy do pickupów, zapewniające trwałość, organizację i bezpieczeństwo ładunku.
-category: Zabudowy BASR
+lang: de
+title: BASR-Strukturen
+description: BASR-Aufbauten - robuste und funktionale Systeme für Pickups, die Haltbarkeit, Organisation und Ladungssicherheit gewährleisten.
+category: BASR-Strukturen
 ---
 
 <section class="pt-xlarge products-category">
 <div class="container">
-  {% set breadcrumbHome = "Strona główna" %}
-  {% set breadcrumbOffer = "Oferta" %}
-  {% set breadcrumbOfferUrl = "/oferta/" %}
+  {% set breadcrumbHome = "Startseite" %}
+  {% set breadcrumbOffer = "Angebot" %}
+  {% set breadcrumbOfferUrl = "/angebot/" %}
   {% if lang == "en" %}
-  {% set breadcrumbHome = "Home" %}
-  {% set breadcrumbOffer = "Offer" %}
-  {% set breadcrumbOfferUrl = "/offer/" %}
+  {% set breadcrumbHome = "Heim" %}
+  {% set breadcrumbOffer = "Angebot" %}
+  {% set breadcrumbOfferUrl = "/angebot/" %}
   {% endif %}
   <nav class="breadcrumbs uppercase small color-accent-1">
     <a href="{{ langPrefix }}/">{{ breadcrumbHome }}</a>
@@ -28,15 +28,15 @@ category: Zabudowy BASR
       <div class="row g-1 g-md-5">
         <div class="col-md-4">
           <div class="description-content">
-            <h2 class="mt-3">Zabudowy BASR </h2>
+            <h2 class="mt-3">BASR-Strukturen </h2>
           </div>
         </div>
         <div class="col-md-8">
              <p class="mb-2">             
-              BASR to linia zabudów skierowana do użytkowników dla których ważniejsza jest wysokość lub potrzeba korzystania z oryginalnej rolety niż szczelnie zamknięta powierzchnia ładunkowa. 
+              BASR ist eine Strukturlinie für Benutzer, für die die Höhe oder die Notwendigkeit, einen Original-Rollladen zu verwenden, wichtiger sind als ein dicht geschlossener Laderaum. 
               </p>
               <p>
-                Zabudowy z tej kategorii posiadają wiele wariantów i możliwości rozbudowy w oparciu o dodatkowe wysuwane platformy i panele molle, organizery, stoliki turystyczne, zbiorniki na paliwo, czy wodę lub schowki na żywność. 
+                Gebäude dieser Kategorie verfügen über viele Varianten und Erweiterungsmöglichkeiten, die auf zusätzlichen versenkbaren Plattformen und Molle-Paneelen, Organizern, Touristentischen, Kraftstoff- oder Wassertanks oder Lebensmittellagerfächern basieren. 
               </p>
 
         </div>
@@ -54,7 +54,7 @@ category: Zabudowy BASR
           {% productImage product.data.productImage, product.data.title %}
           <div class="product-card-content p-4 bg-light-1">
           <h3 class="h4 mt-0">{{ product.data.title }}</h3>
-          <a href="{{ product.url | url }}" class="color-accent-1 small">Zobacz więcej &rarr;</a>
+          <a href="{{ product.url | url }}" class="color-accent-1 small">Weitere &rarr;</a>
           </div>
         </article>
         </a>
@@ -62,7 +62,7 @@ category: Zabudowy BASR
       {% endfor %}
     </div>
   {% else %}
-    <p>Brak produktów w tej kategorii.</p>
+    <p>In dieser Kategorie sind keine Produkte vorhanden.</p>
   {% endif %}
   </div>
 </section>
@@ -159,13 +159,13 @@ category: Zabudowy BASR
               {% endfor %} 
             </div>
           </div>
-          <button class="magnetic swiper-gal swiper-button-prev fade-in" data-strength="60" tabindex="0" aria-label="Previous slide">
+          <button class="magnetic swiper-gal swiper-button-prev fade-in" data-strength="60" tabindex="0" aria-label="Vorherige Folie">
             <svg viewBox="0 0 61 61" width="61" height="61" fill="none">
               <circle cx="30.5" cy="30.5" r="30" stroke="var(--color-dark-2)"></circle>
               <path d="M34.5 24L27 31.5L34.5 39" stroke-width="2" stroke="var(--color-dark-2)"></path>
             </svg>
           </button>
-          <button class="magnetic swiper-gal swiper-button-next fade-in" data-strength="60" tabindex="0" aria-label="Next slide">
+          <button class="magnetic swiper-gal swiper-button-next fade-in" data-strength="60" tabindex="0" aria-label="Nächste Folie">
             <svg viewBox="0 0 61 61" width="61" height="61" fill="none">
               <circle cx="30.5" cy="30.5" r="30" stroke="var(--color-dark-2)"></circle>
               <path d="M28 24L35.5 31.5L28 39" stroke-width="2" stroke="var(--color-dark-2)"></path>

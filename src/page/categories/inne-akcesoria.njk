@@ -1,19 +1,19 @@
-﻿---
-lang: pl
-title: Inne akcesoria
-description: Praktyczne elementy zwiększające funkcjonalność i komfort użytkowania Twojego pickupa. Solidne, przemyślane rozwiązania JUSN Design. 
-category: Inne akcesoria
+---
+lang: de
+title: Weiteres Zubehor
+description: Praktische Elemente zur Steigerung der Funktionalität und des Komforts Ihres Pickups. Robuste, durchdachte Lösungen von JUSN Design. 
+category: Weiteres Zubehor
 ---
 
 <section class="pt-xlarge pb-large products-category">
 <div class="container">
-  {% set breadcrumbHome = "Strona główna" %}
-  {% set breadcrumbOffer = "Oferta" %}
-  {% set breadcrumbOfferUrl = "/oferta/" %}
+  {% set breadcrumbHome = "Startseite" %}
+  {% set breadcrumbOffer = "Angebot" %}
+  {% set breadcrumbOfferUrl = "/angebot/" %}
   {% if lang == "en" %}
-  {% set breadcrumbHome = "Home" %}
-  {% set breadcrumbOffer = "Offer" %}
-  {% set breadcrumbOfferUrl = "/offer/" %}
+  {% set breadcrumbHome = "Heim" %}
+  {% set breadcrumbOffer = "Angebot" %}
+  {% set breadcrumbOfferUrl = "/angebot/" %}
   {% endif %}
   <nav class="breadcrumbs uppercase small color-accent-1">
     <a href="{{ langPrefix }}/">{{ breadcrumbHome }}</a>
@@ -35,7 +35,7 @@ category: Inne akcesoria
           {% productImage product.data.productImage, product.data.title %}
           <div class="product-card-content p-4 bg-light-1">
           <h3 class="h4 mt-0">{{ product.data.title }}</h3>
-          <a href="{{ product.url | url }}" class="color-accent-1 small">Zobacz więcej &rarr;</a>
+          <a href="{{ product.url | url }}" class="color-accent-1 small">Weitere &rarr;</a>
           </div>
         </article>
         </a>
@@ -43,7 +43,7 @@ category: Inne akcesoria
       {% endfor %}
     </div>
   {% else %}
-    <p>Brak produktów w tej kategorii.</p>
+    <p>In diesen Kategorien sind keine Produkte vorhanden.</p>
   {% endif %}
   </div>
 </section>

@@ -1,19 +1,19 @@
 ---
-lang: pl
-title: Uchwyty na tylną klapę
-description: Wytrzymałe uchwyty na klapę bagażnika - stabilny montaż i pewny chwyt w codziennym użytkowaniu i terenie.
-category: Uchwyty na tylną klapę
+lang: de
+title: Halterungen für die Heckklappe
+description: Robuste Heckklappenhalterungen - stabile Montage und sicherer Halt im Alltag und im Gelände.
+category: Halterungen für die Heckklappe
 ---
 
 <section class="pt-xlarge pb-xlarge products-category">
 <div class="container">
-  {% set breadcrumbHome = "Strona główna" %}
-  {% set breadcrumbOffer = "Oferta" %}
-  {% set breadcrumbOfferUrl = "/oferta/" %}
+  {% set breadcrumbHome = "Startseite" %}
+  {% set breadcrumbOffer = "Angebot" %}
+  {% set breadcrumbOfferUrl = "/angebot/" %}
   {% if lang == "en" %}
-  {% set breadcrumbHome = "Home" %}
-  {% set breadcrumbOffer = "Offer" %}
-  {% set breadcrumbOfferUrl = "/offer/" %}
+  {% set breadcrumbHome = "Heim" %}
+  {% set breadcrumbOffer = "Angebot" %}
+  {% set breadcrumbOfferUrl = "/angebot/" %}
   {% endif %}
   <nav class="breadcrumbs uppercase small color-accent-1">
     <a href="{{ langPrefix }}/">{{ breadcrumbHome }}</a>
@@ -35,7 +35,7 @@ category: Uchwyty na tylną klapę
           {% productImage product.data.productImage, product.data.title %}
           <div class="product-card-content p-4 bg-light-1">
           <h3 class="h4 mt-0">{{ product.data.title }}</h3>
-          <a href="{{ product.url | url }}" class="color-accent-1 small">Zobacz więcej &rarr;</a>
+          <a href="{{ product.url | url }}" class="color-accent-1 small">Weitere &rarr;</a>
           </div>
         </article>
         </a>
@@ -43,7 +43,7 @@ category: Uchwyty na tylną klapę
       {% endfor %}
     </div>
   {% else %}
-    <p>Brak produktów w tej kategorii.</p>
+    <p>In diesen Kategorien sind keine Produkte vorhanden.</p>
   {% endif %}
   </div>
 </section>

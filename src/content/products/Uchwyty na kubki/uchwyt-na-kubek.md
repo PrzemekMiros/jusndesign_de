@@ -1,9 +1,8 @@
 ---
-lang: pl
+lang: de
 layout: "layouts/product.njk"
-permalink: /produkty/uchwyt-na-kubek-nawiew-ac-jeep-wrangler-jk/
-title: Uchwyt na kubek na nawiew AC do Jeepa Wranglera JK
-description: Aluminiowy uchwyt na kubek do Jeepa Wranglera JK. Montowany na nawiew klimatyzacji, pomaga utrzymać temperaturę napoju. Konstrukcja z aluminium 6061.
+title: AC-Entlüftungsbecherhalter für Jeep Wrangler JK
+description: Getränkehalter aus Aluminium für Jeep Wrangler JK. Es wird an der Lüftungsöffnung der Klimaanlage montiert und trägt dazu bei, dass die Temperatur des Getränks aufrecht erhalten bleibt. Konstruktion aus 6061 Aluminium.
 productImage: /content/products/img/uchwyt-na-kubek.jpg
 galleryImages:
   - /content/products/img/uchwyt-na-kubek-1.png
@@ -11,49 +10,49 @@ galleryImages:
   - /content/products/img/uchwyt-na-kubek-3.png
 
 categories:
-  - Uchwyty na kubki
+  - Getraenkehalter
 price: 320
 order: 6
 
 # Dane techniczne dla szablonu
 brand: JUSN
-material: Stop aluminium
-process: Grawerowanie CNC, Piaskowanie i Anodowanie
+material: Aluminiumlegierung
+process: CNC-Gravur, Sandstrahlen und Eloxieren
 weight: 0.4
-shippingInfo: Prosimy o kontakt i podanie numeru VIN pojazdu oraz zdjęcia miejsca montażu w celu weryfikacji kompatybilności.
+shippingInfo: Bitte kontaktieren Sie uns und geben Sie die VIN-Nummer Ihres Fahrzeugs und ein Foto des Installationsorts an, um die Kompatibilität zu überprüfen.
 Installation:
   difficulty: 2
   professional_required: false
-  method: Dopasowanie OE (Bezinwazyjny montaż)
+  method: OE-Passform (nicht-invasiver Einbau)
 ---
 
-**Specyfikacja:** Uchwyt na kubek montowany na nawiew klimatyzacji. Zaprojektowany specjalnie dla Jeepa Wranglera JK. Funkcjonalne rozwiązanie, które integruje miejsce na napój z systemem klimatyzacji pojazdu.
+**Spezifikation:** Getränkehalter an der Lüftungsöffnung der Klimaanlage montiert. Speziell für den Jeep Wrangler JK entwickelt. Eine funktionale Lösung, die den Getränkeraum in die Klimaanlage des Fahrzeugs integriert.
 
-Odśwież wnętrze swojego Jeepa dzięki najnowszemu projektowi od JUSN. To nie jest zwykły uchwyt – to stacja chłodząca i grzewcza dla Twoich napojów, idealnie umiejscowiona, aby zapewnić łatwy dostęp podczas każdej wyprawy.
+Erfrischen Sie den Innenraum Ihres Jeeps mit dem neuesten Design von JUSN. Dies ist nicht nur ein Halter – es ist eine Kühl- und Wärmestation für Ihre Getränke, perfekt positioniert, damit Sie bei jedem Abenteuer leicht darauf zugreifen können.
 
-### Dlaczego warto wybrać JUSN?
-Zimne napoje w upalne dni, gorąca kawa w mroźne poranki – dzięki temu uchwytowi Twój napój zawsze będzie miał odpowiednią temperaturę. Wykorzystując przepływ powietrza z nawiewu AC, produkt utrzymuje ciepło lub chłód Twojego picia tak, jak lubisz.
+### Warum JUSN wählen?
+Kalte Getränke an heißen Tagen, heißer Kaffee an frostigen Morgen – dank diesem Halter hat Ihr Getränk immer die richtige Temperatur. Mithilfe des Luftstroms aus der Lüftungsöffnung hält das Produkt Ihr Getränk ganz nach Ihren Wünschen warm oder kühl.
 
-### Szczegóły Techniczne:
-* **MATERIAŁ:** Wysokiej jakości stop aluminium.
-* **PROCES:** Precyzyjne grawerowanie CNC, profesjonalne piaskowanie oraz powłoka anodowana dla uzyskania wykończenia premium.
+### Technische Details:
+* **MATERIAL:** Hochwertige Aluminiumlegierung.
+* **VERFAHREN:** Präzise CNC-Gravur, professionelles Sandstrahlen und eloxierte Beschichtung für ein erstklassiges Finish.
 
-### Główne cechy:
-* **Nowoczesny Design:** Unikalna konstrukcja łącząca estetykę osłony nawiewu z solidnym uchwytem na kubek.
-* **Elegancki Metalowy Wygląd:** Wyróżnij się na tle innych właścicieli Jeepów dzięki niesamowitemu wyglądowi, który zastępuje tani plastik wysokiej klasy aluminium.
-* **Wytrzymała Metalowa Konstrukcja:** Ciesz się znacznie dłuższą żywotnością w porównaniu do kruchych, plastikowych uchwytów. Produkt jest odporny na wstrząsy podczas jazdy w terenie.
-* **Odporność na Korozję:** Specjalistyczna powierzchnia anodowana bez trudu wytrzymuje kontakt z rozlaną kawą czy napojami gazowanymi, nie pozostawiając plam ani śladów korozji.
-* **łatwa Konserwacja:** Gładka metalowa powierzchnia jest niezwykle łatwa do utrzymania w czystości – wystarczy przetrzeć, aby wnętrze wyglądało nieskazitelnie.
-* **Bezinwazyjny Montaż:** Precyzyjnie zaprojektowany w oparciu o dane fabryczne (OE). Instalacja typu "zamontuj i używaj", która nie narusza struktury deski rozdzielczej.
+### Hauptmerkmale:
+* **Modernes Design:** Ein einzigartiges Design, das die Ästhetik einer Lüftungsabdeckung mit einem soliden Getränkehalter kombiniert.
+* **Eleganter Metall-Look:** Heben Sie sich von anderen Jeep-Besitzern mit einem tollen Look ab, der billiges Plastik durch hochwertiges Aluminium ersetzt.
+* **Robuste Metallkonstruktion:** Genießen Sie eine viel längere Lebensdauer im Vergleich zu spröden Kunststoffgriffen. Das Produkt ist stoßfest beim Fahren im Gelände.
+* **Korrosionsbeständigkeit:** Die spezielle eloxierte Oberfläche hält dem Kontakt mit verschüttetem Kaffee oder kohlensäurehaltigen Getränken problemlos stand und hinterlässt keine Flecken oder Korrosionsspuren.
+* **Einfache Wartung:** Die glatte Metalloberfläche ist extrem leicht sauber zu halten – wischen Sie sie einfach ab, damit das Innere makellos aussieht.
+* **Nicht-invasive Installation:** Präzise auf der Grundlage von Werksdaten (OE) entwickelt. Eine „Fit-and-Play“-Installation, die Struktur des Armaturenbretts nicht beeinträchtigt.
 
-### Informacje o montażu:
-* **Dopasowanie:** Dane zgodne z OE – "Install and Play".
-* **Poziom trudności:** 2/5 gwiazdek.
-* **Montaż profesjonalny:** Nie jest wymagany.
-* **Montaż bezinwazyjny:** Tak.
+### Informationen zur Montage:
+* **Ausstattung:** Daten kompatibel mit OE – „Install and Play“.
+* **Schwierigkeitsgrad:** 2/5 Sterne.
+* **Professionelle Installation:** Nicht erforderlich.
+* **Nicht-invasive Installation:** Ich.
 
-### Zawartość opakowania:
-* Uchwyt na kubek - 1 zestaw
+### Packungsinhalt:
+* Getränkehalter – 1 Satz
 
 
 

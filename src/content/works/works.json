@@ -1,4 +1,4 @@
 {
-    "permalink": "/realizacje/{{ title | slugify }}/",
+    "permalink": "/projekte/{{ title | slugify }}/",
     "robots": "noindex"
 }

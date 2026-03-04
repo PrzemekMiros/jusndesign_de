@@ -1,12 +1,12 @@
 ---
-lang: pl
+lang: de
 layout: "layouts/product.njk"
-permalink: /produkty/zabudowa-bed-rack-jd-13/
-title: Zabudowa bed rack JD13
-description: Zabudowa posiada różne konfiguracje, schowki boczne, wewnętrzne wysuwane panele molle, platformy wysuwane, organizery schowków i inne opcjonalne rozwiązania. Zabudowa nie wymaga demontażu rolety Twojego pickupa
+title: Installation des Bettgestells JD13
+description: Die Struktur verfügt über verschiedene Konfigurationen, seitliche Staufächer, interne einziehbare Molle-Platten, einziehbare Plattformen, Aufbewahrungsorganisatoren und andere optionale Lösungen. Für die Installation ist keine Demontage des Rollladens Ihres Pickups erforderlich
+permalink: /produkte/installation-des-bettgestells-jd13-modular/
 productImage: /content/products/img/modulowy-bagznik.png
 categories:
-  - Systemy przechowywania ładunku
+  - Ladungsspeichersysteme
 price: 0
 order: 5
 
@@ -15,16 +15,16 @@ brand: JUSN
 installation:
   difficulty: 2
   professional_required: false
-  method: Montaż bezinwazyjny (śrubowy)
+  method: Nicht-invasiver Einbau (Schraubmontage)
 --- 
 
-### Główne cechy:
+### Hauptmerkmale:
 
-* **Odporność na warunki atmosferyczne:** Specjalna powłoka anodowana i malowanie proszkowe chronią przed promieniowaniem UV, kwaśnym deszczem oraz korozją, zapewniając wieloletnią trwałość systemu zabudowy.
-* **Solidna, wzmocniona konstrukcja:** Zaprojektowana, aby wytrzymać trudy podróży. System umożliwia maksymalne wykorzystanie przestrzeni bagażowej oraz wygodne uporządkowanie rzeczy w oddzielnych strefach dla łatwego dostępu podczas wypraw.
-* **Praktyczne rozwiązania:** Zewnętrzna część skrzyń posiada przemyślane otwory, które umożliwiają zawieszanie drobnych przedmiotów, dzięki czemu najpotrzebniejsze rzeczy masz zawsze pod ręką.
-* **Konstrukcja odporna na kurz:** Specjalne, pyłoszczelne zamknięcia zapobiegają blokowaniu zamków przez zabrudzenia, utrzymując system w czystości i pełnej funkcjonalności.
-* **Bezpieczeństwo i ochrona:** Wbudowane zamki zabezpieczają zawartość przed kradzieżą, dając Ci spokój ducha w każdej podróży.
-* **Uporządkowana przestrzeń:** Po każdej stronie znajdują się 4 pojemne schowki, które umożliwiają wygodne segregowanie i szybkie odnajdywanie potrzebnych przedmiotów.
-* **Bezpieczeństwo przede wszystkim:** Możliwość podłączenia dodatkowego oświetlenia do świateł STOP, pozycyjnych i dziennych pojazdu zwiększa widoczność na drodze po zmroku.
-* **Wielofunkcyjna przestrzeń ładunkowa:** Górny bagażnik idealnie nadaje się do przewozu większych przedmiotów, takich jak namioty campingowe czy walizki – doskonałe rozwiązanie na wyprawy i podróże.
+* **Witterungsbeständigkeit:** Eine spezielle eloxierte Beschichtung und Pulverbeschichtung schützen vor UV-Strahlung, saurem Regen und Korrosion und gewährleisten eine langjährige Haltbarkeit des Aufbausystems.
+* **Robuste, verstärkte Konstruktion:** Entwickelt, um den Belastungen von Reisen standzuhalten. Das System ermöglicht die maximale Nutzung des Stauraums und eine komfortable Organisation in separaten Bereichen für schnellen Zugriff während Expeditionen.
+* **Praktische Lösungen:** Der äußere Teil der Boxen verfügt über durchdachte Öffnungen zum Aufhängen kleiner Gegenstände, sodass die wichtigsten Dinge immer griffbereit sind.
+* **Staubresistente Konstruktion:** Spezielle staubdichte Verschlüsse verhindern das Blockieren der Schlösser durch Schmutz und halten das System sauber und voll funktionsfähig.
+* **Sicherheit und Schutz:** Integrierte Schlösser schützen den Inhalt vor Diebstahl und geben Ihnen auf jeder Reise ein sicheres Gefühl.
+* **Geordneter Stauraum:** Auf jeder Seite befinden sich 4 geräumige Fächer, die eine bequeme Sortierung und schnelles Finden benötigter Gegenstände ermöglichen.
+* **Sicherheit geht vor:** Die Möglichkeit, zusätzliche Beleuchtung an Brems-, Positions- und Tagfahrlichter des Fahrzeugs anzuschließen, erhöht die Sichtbarkeit bei Dunkelheit.
+* **Multifunktionaler Laderaum:** Der obere Gepäckträger eignet sich ideal für den Transport größerer Gegenstände wie Campingzelte oder Koffer - die perfekte Lösung für Expeditionen und Reisen.

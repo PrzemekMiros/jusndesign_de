@@ -1,57 +1,30 @@
-﻿</main>
-{% set isEn = lang == "en" %}
-{% set shopCtaText = "Przejdź do sklepu" %}
-{% set policyPrivacy = "Polityka prywatności" %}
-{% set policyTerms = "Regulamin" %}
-{% set policyGdpr = "RODO" %}
-{% set copyText = "&copy; JUSN DESIGN EUROPE" %}
-{% set footerOfferTitle = "Zobacz produkty" %}
-{% set footerNavTitle = "Menu" %}
-{% set navOffer = "Oferta" %}
-{% set navGallery = "Galeria" %}
+</main>
+{% set shopCtaText = "Geh in den Laden" %}
+{% set policyPrivacy = "Datenschutzrichtlinie" %}
+{% set policyTerms = "Satzung" %}
+{% set policyGdpr = "DSGVO" %}
+{% set copyText = "&Kopie; JUSN DESIGN EUROPE" %}
+{% set footerOfferTitle = "Produkte ansehen" %}
+{% set footerNavTitle = "Speisekarte" %}
+{% set navOffer = "Angebot" %}
+{% set navGallery = "Galerie" %}
 {% set navContact = "Kontakt" %}
-{% set urlOffer = "/oferta/" %}
-{% set urlGallery = "/galeria/" %}
+{% set urlOffer = "/angebot/" %}
+{% set urlGallery = "/galerie/" %}
 {% set urlContact = "/kontakt/" %}
-{% set urlPrivacy = "/polityka-prywatnosci/" %}
-{% set urlTerms = "/regulamin-strony/" %}
-{% set productsBase = "/produkty/" %}
-{% set footerBedOrganizers = "Systemy przechowywania ładunku" %}
-{% set footerSideSteps = "Progi boczne i stopnie" %}
-{% set footerPickupBuilds = "Zabudowy do pickupów" %}
-{% set footerWinchGuides = "Prowadnice lin do wyciągarek" %}
-{% set footerOther = "Inne akcesoria" %}
-{% set urlBedOrganizers = productsBase ~ "systemy-przechowywania-ladunku/" %} 
-{% set urlSideSteps = productsBase ~ "progi-boczne-i-stopnie/" %} 
-{% set urlPickupBuilds = productsBase ~ "zabudowy-do-pickupow/" %}
-{% set urlWinchGuides = productsBase ~ "prowadnice-lin-wyciagarek/" %}
-{% set urlOther = productsBase ~ "inne-akcesoria/" %}
-{% if isEn %}
-  {% set shopCtaText = "Visit shop" %}
-  {% set policyPrivacy = "Privacy Policy" %}
-  {% set policyTerms = "Terms" %}
-  {% set policyGdpr = "GDPR" %}
-  {% set footerOfferTitle = "Products" %}
-  {% set footerNavTitle = "Menu" %}
-  {% set navOffer = "Products" %}
-  {% set navGallery = "Gallery" %}
-  {% set navContact = "Contact" %}
-  {% set urlOffer = "/offer/" %}
-  {% set urlGallery = "/gallery/" %}
-  {% set urlContact = "/contact/" %}
-  {% set urlPrivacy = "/privacy-policy/" %}
-  {% set urlTerms = "/terms-and-conditions/" %}
-  {% set footerBedOrganizers = "Bed organizers" %}
-  {% set footerSideSteps = "Side steps and running boards" %}
-  {% set footerPickupBuilds = "Pick up Canopy" %}
-  {% set footerWinchGuides = "Winch fairleads" %}
-  {% set footerOther = "Other accessories" %}
-  {% set urlBedOrganizers = "/offer/pick-up-truck-bed-organizer/" %}
-  {% set urlSideSteps = "/offer/side-steps-running-boards/" %}
-  {% set urlPickupBuilds = "/offer/truck-canopy-hard-top/" %}
-  {% set urlWinchGuides = "/offer/winch-hawse-fairlead/" %}
-  {% set urlOther = "/offer/other-off-road-accessories/" %}
-{% endif %}
+{% set urlPrivacy = "/datenschutzrichtlinie/" %}
+{% set urlTerms = "/nutzungsbedingungen/" %}
+{% set productsBase = "/produkte/" %}
+{% set footerBedOrganizers = "Frachtlagersysteme" %}
+{% set footerSideSteps = "Seitenschweller und Trittstufen" %}
+{% set footerPickupBuilds = "Pickup-Truck-Aufbauten" %}
+{% set footerWinchGuides = "Seilführungen für Winden" %}
+{% set footerOther = "Weiteres Zubehör" %}
+{% set urlBedOrganizers = productsBase ~ "ladungsspeichersysteme/" %} 
+{% set urlSideSteps = productsBase ~ "seitenschweller-und-trittstufen/" %} 
+{% set urlPickupBuilds = productsBase ~ "pickup-aufbauten/" %}
+{% set urlWinchGuides = productsBase ~ "seilfuhrungen-fur-winden/" %}
+{% set urlOther = productsBase ~ "weiteres-zubehor/" %}
 <footer class="site-footer pt-large pb-xxsmall bg-dark-2">
   <div class="foot-bg-wrap container"></div>
   <div class="footer-parallax">
@@ -60,7 +33,7 @@
       <div class="line-x light"></div>
       <div class="row g-5 pt-medium pb-medium">
         <div class="col-md-4">
-          <img src="/assets/img/logo/logo.png" class="footer-logo dark" loading="lazy" width="405" height="25" alt="Jusndesign Europe logo">
+          <img src="/assets/img/logo/logo.png" class="footer-logo dark" loading="lazy" width="405" height="25" alt="Jusndesign Europe-Logo">
         </div>
         <div class="col-md-3">
           <h3 class="mt-0 color-light-1">{{ footerOfferTitle }}</h3>
@@ -100,10 +73,10 @@
           <h3 class="mt-0 color-light-1">Kontakt</h3>
           <ul class="footer-list">
             <li>
-              <a href="tel:+48&nbsp;730&nbsp;010&nbsp;745" title="Realizacje">+48 730 010 745</a>
+              <a href="tel:+48&nbsp;730&nbsp;010&nbsp;745" title="Projekte">+48 730 010 745</a>
             </li>
             <li>
-              <a href="mailto:contact@jusndesigneurope.com" title="Opinie">contact@jusndesigneurope.com</a>
+              <a href="mailto:contact@jusndesigneurope.com" title="Meinungen">contact@jusndesigneurope.com</a>
             </li>
           </ul>
         </div>

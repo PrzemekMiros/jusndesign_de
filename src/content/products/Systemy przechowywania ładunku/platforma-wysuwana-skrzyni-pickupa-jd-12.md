@@ -1,14 +1,13 @@
 ---
-lang: pl
+lang: de
 layout: "layouts/product.njk"
-permalink: /produkty/platforma-wysuwana-skrzyni-pickupa-jd-12/
-title: Platforma wysuwana JD12
-description: JD-12 to ciężka, wysuwana platforma do skrzyni pick-upa. Przeznaczona do pojazdów wszystkich rozmiarów, z montażem bezinwazyjnym i kilkoma wariantami wymiarowymi.
+title: JD12 ausziehbare Plattform
+description: JD-12 ist eine schwere, ausziehbare Plattform für einen Pick-up-Truck. Konzipiert für Fahrzeuge aller Größen, mit nicht-invasiver Installation und mehreren Dimensionsvarianten.
 productImage: /content/products/img/platforma-wysuwana.png
 galleryImages:
   - /content/products/img/platforma-wysuwana2.png
 categories:
-  - Systemy przechowywania ładunku
+  - Ladungsspeichersysteme
 price: 0
 order: 4
 
@@ -17,39 +16,39 @@ brand: JUSN
 installation:
   difficulty: 2 
   professional_required: false
-  method: Montaż bezinwazyjny (śrubowy)
+  method: Nicht-invasiver Einbau (Schraubmontage)
 ---
 
-**JD-12 Truck Bed Slide** to wytrzymała, wysuwana platforma zaprojektowana do skrzyń ładunkowych pick-upów wszystkich rozmiarów – małych, średnich i dużych.  
-Umożliwia szybki i wygodny dostęp do ładunku umieszczonego głęboko w skrzyni, bez konieczności wchodzenia na pakę czy rozładowywania całego bagażu.
+**JD-12 Truck Bed Slide** ist eine langlebige, ausziehbare Plattform, die für die Ladeflächen von Pickup-Trucks aller Größen – klein, mittel und groß – entwickelt wurde.
+Es ermöglicht einen schnellen und bequemen Zugriff auf tief in der Box verstaute Ladung, ohne dass man auf die Ladefläche klettern oder das gesamte Gepäck ausladen muss.
 
-### Kompatybilność
-Platforma JD-12 jest kompatybilna z wieloma modelami pick-upów, w tym m.in.:
-* JT
+### Kompatibilität
+Die JD-12-Plattform ist mit vielen Pickup-Modellen kompatibel, darunter:
+* J.T
 * Ford F-150 Raptor
 * RAM
 * Toyota Tundra
 * Ford Ranger
 * Toyota Tacoma
 * Toyota Hilux
-* Shark
-* Inne modele pick-upów z odpowiednimi punktami montażowymi
+* Hai
+* Andere Pick-up-Modelle mit entsprechenden Befestigungspunkten
 
-### Dostępne rozmiary (mm)
-* **Duży:** 1230 × 1631
-* **Średni:** 1156 × 1441
-* **Mały:** 1086 × 1486
+### Verfügbare Größen (mm)
+* **Groß:** 1230 × 1631
+* **Mittel:** 1156 × 1441
+* **Klein:** 1086 × 1486
 
-### Najważniejsze cechy
-* **Uniwersalne zastosowanie:** Pasuje do pick-upów małych, średnich i dużych.
-* **Konstrukcja Heavy-Duty:** Przystosowana do pracy pod dużym obciążeniem i w trudnych warunkach.
-* **Płynny mechanizm wysuwu:** Zapewnia szybki dostęp do narzędzi, sprzętu i bagażu.
-* **Montaż bezinwazyjny:** Instalacja śrubowa bez wiercenia i trwałych modyfikacji pojazdu.
-* **Warianty rozmiarowe:** Trzy wersje wymiarowe pozwalają dopasować platformę do różnych skrzyń ładunkowych.
+### Hauptmerkmale
+* **Universell einsetzbar:** Passend für kleine, mittlere und große Pickup-Trucks.
+* **Hochbelastbares Design:** Entwickelt, um schweren Lasten und rauen Bedingungen standzuhalten.
+* **Leichtgängiger Auszugsmechanismus:** Bietet schnellen Zugriff auf Werkzeuge, Ausrüstung und Gepäck.
+* **Nicht-invasive Installation:** Schraubmontage ohne Bohren oder dauerhafte Änderungen am Fahrzeug.
+* **Größenvarianten:** Dreidimensionale Versionen ermöglichen die Anpassung der Plattform an verschiedene Frachtboxen.
 
-### Montaż
-* **Rodzaj montażu:** Montaż bezinwazyjny (bolt-on)
-* **Poziom trudności:** 2 / 5
-* **Wymagana instalacja profesjonalna:** Nie
+### Installation
+* **Art der Installation:** Nicht-invasive Installation (Anschrauben)
+* **Schwierigkeitsgrad:** 2 / 5
+* **Professionelle Installation erforderlich:** Nein
 
-JD-12 to rozwiązanie dla tych, którzy chcą mieć **realny dostęp do ładunku**, a nie tylko ładną skrzynię, do której i tak nie da się sięgnąć bez akrobatyki.
+JD-12 ist eine Lösung für alle, die echten Zugang zur Ladung haben wollen und nicht nur eine schöne Kiste, die ohne Akrobatik ohnehin nicht zu erreichen ist.

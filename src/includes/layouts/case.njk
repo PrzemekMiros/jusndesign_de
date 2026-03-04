@@ -12,7 +12,7 @@
                     </h1>
                     <div class="breadcrumbs small fade-in">
                         <span>
-                            Kategoria:
+                            Kategorie:
                         </span>
                         <span>
                              {{ category }}
@@ -21,7 +21,7 @@
                               |
                         </span>
                         <span>
-                            Wykonano: 
+                            Gemacht: 
                         </span>
                         <span>
                              {{ date | dateDisplay }}
@@ -46,8 +46,8 @@
           data-strength="60"
           target="_blank">
         <div class="button-anim-text">
-          <span>Zobacz online</span>
-          <span>Zobacz online</span>
+          <span>Online ansehen</span>
+          <span>Online ansehen</span>
         </div>
 
         <div class="button-anim-icon">
@@ -74,7 +74,7 @@
         {%- if previousPost %}
         <li class="hover-reveal-wrap col-md-6 prev d-none d-md-block">
           <p class="mb-4 color-accent-1 bold">
-            Poprzedni: 
+            Vorherige: 
           </p>
           <a
             href="{{ previousPost.url | url }}"
@@ -86,7 +86,7 @@
         {% endif %} {%- if nextPost %}
         <li class="hover-reveal-wrap col-md-6 next">
           <p class="mb-4 color-accent-1 bold">
-             Kolejny: 
+             Nächste: 
           </p>
           <a
             href="{{ nextPost.url | url }}"

@@ -1,67 +1,66 @@
 ---
-lang: pl
+lang: de
 layout: "layouts/product.njk"
-permalink: /produkty/uchwyt-3w1-na-tylna-klape-jeep-gladiator-jt/
-title: Uchwyt 3w1 na klapę Jeep Wrangler / Gladiator JT - Antena CB, łopata i flaga
-description: Wielofunkcyjny uchwyt na tylną klapę do Jeepa. Pozwala na jednoczesny montaż łopaty, anteny CB i masztu flagi. Bezinwazyjny montaż, aluminium CNC.
+title: 3in1 Jeep Wrangler / Gladiator JT Lukenhalter – CB-Antenne, Schaufel und Flagge
+description: Multifunktionaler Heckklappenhalter für Jeep. Es ermöglicht die gleichzeitige Installation einer Schaufel, einer CB-Antenne und eines Fahnenmastes. Nicht-invasive Montage, CNC-Aluminium.
 productImage: /content/products/img/maszta-na-klape.jpg
 categories:
-  - Uchwyty na tylną klapę
+  - Halterungen für die Heckklappe
 price: 149
 order: 1
 
 # Dane techniczne dla szablonu
 brand: JUSN
-material: Stop aluminium (6061)
-process: Anodowanie i Malowanie Proszkowe
+material: Aluminiumlegierung (6061)
+process: Eloxieren und Pulverschichten
 weight: 2.5
-shippingInfo: Dostępna standardowa wysyłka. Czas realizacji ok. 15 dni.
+shippingInfo: Standardversand verfügbar. Lieferzeit ca. 15 Tage.
 Installation:
   difficulty: 3
   professional_required: false
-  method: Dopasowanie OE - Bezinwazyjny montaż bez wiercenia
+  method: OE-Passform - nicht-invasiver Einbau ohne Bohren
 ---
 
-## Uchwyt 3w1 na klapę Jeep Wrangler / Gladiator JT – Antena CB, Łopata i Flaga
+## 3in1 Jeep Wrangler / Gladiator JT Lukenhalter – CB-Antenne, Schaufel und Flagge
 
-Wielofunkcyjny uchwyt 3w1 na tylną klapę to praktyczne i profesjonalne rozwiązanie dla użytkowników Jeep Wrangler oraz Gladiator JT, którzy potrzebują stabilnego i estetycznego montażu akcesoriów wyprawowych. Uchwyt umożliwia jednoczesne zamocowanie łopaty, anteny CB oraz masztu flagi w jednym miejscu, eliminując chaos w kabinie i na pace podczas wypraw.
+Der 3-in-1-Multifunktions-Heckklappenhalter ist eine praktische und professionelle Lösung für Jeep Wrangler- und Gladiator JT-Benutzer, die eine stabile und ästhetische Installation von Expeditionszubehör benötigen. Mit der Halterung können Sie Schaufel, CB-Antenne und Fahnenmast gleichzeitig an einem Ort befestigen und so während der Fahrt kein Chaos in der Kabine und auf dem LKW verursachen.
 
-Dedykowany do pojazdów ekspedycyjnych, w których liczy się ergonomia, bezpieczeństwo transportu sprzętu oraz szybki dostęp do najważniejszych narzędzi w terenie.
+Speziell für Expeditionsfahrzeuge, bei denen Ergonomie, sicherer Transport der Ausrüstung und schneller Zugriff auf die wichtigsten Werkzeuge im Feld wichtig sind.
 
-### Najważniejsze cechy
+### Hauptmerkmale
 
-- System 3 w 1 – uchwyt na łopatę, antenę CB i flagę  
-- Dedykowany montaż na klapie Jeep Wrangler / Gladiator JT  
-- Stabilna baza pod antenę CB zapewniająca dobrą jakość sygnału  
-- Pewne mocowanie łopaty (trzonek do 28 mm / 1.1")  
-- Smukły, nowoczesny design dopasowany do stylistyki Jeepa  
+- 3-in-1-System – Halterung für Schaufel, CB-Antenne und Flagge
+- Spezielle Installation an der Luke des Jeep Wrangler / Gladiator JT
+- Eine stabile Basis für eine CB-Antenne, die eine gute Signalqualität gewährleistet
+- Sichere Schaufelbefestigung (Stiel bis 28 mm / 1,1")
+- Schlankes, modernes Design passend zum Jeep-Stil
 
-### Materiał i wykonanie
+### Material und Verarbeitung
 
-Uchwyt wykonany jest z wysokiej jakości stopu aluminium 6061, który łączy niską wagę z bardzo wysoką wytrzymałością mechaniczną. Proces piaskowania, anodowania oraz malowania proszkowego zapewnia maksymalną odporność na korozję, promieniowanie UV, błoto, wilgoć oraz trudne warunki terenowe.
+Der Griff besteht aus einer hochwertigen 6061-Aluminiumlegierung, die geringes Gewicht mit hoher mechanischer Festigkeit verbindet. Der Sandstrahl-, Eloxierungs- und Pulverbeschichtungsprozess sorgt für maximale Beständigkeit gegen Korrosion, UV-Strahlung, Schlamm, Feuchtigkeit und schwierige Geländebedingungen.
 
-Dzięki precyzyjnej obróbce CNC produkt cechuje się doskonałym dopasowaniem do pojazdu oraz długą żywotnością nawet przy intensywnym użytkowaniu w terenie.
+Dank präziser CNC-Bearbeitung hat das Produkt eine perfekte Passform am Fahrzeug und eine lange Lebensdauer auch nach intensivem Einsatz im Feld.
 
-### Funkcjonalność w terenie
+### Offroad-Funktionalität
 
-Konstrukcja uchwytu została zaprojektowana tak, aby utrzymać akcesoria stabilnie nawet podczas dynamicznej jazdy po nierównościach. Solidne mocowania eliminują luz i drgania, co jest szczególnie istotne podczas jazdy off-road, rajdów terenowych i długich wypraw ekspedycyjnych.
+Das Design des Griffs wurde so konzipiert, dass das Zubehör auch bei dynamischer Fahrt über unebene Oberflächen stabil bleibt. Solide Halterungen verhindern Lockerheit und Vibrationen, was darüber hinaus besonders bei Geländefahrten, Offroad-Rallyes und langen Expeditionsfahrten wichtig ist.
 
-Jednoczesny montaż trzech akcesoriów w jednym miejscu pozwala lepiej zorganizować przestrzeń oraz zachować szybki dostęp do łopaty w sytuacjach awaryjnych.
+Durch die gleichzeitige Installation von drei Zubehörteilen an einem Ort können Sie den Raum besser organisieren und in Notsituationen einen schnellen Zugriff auf die Schaufel gewährleisten.
 
-### Montaż
+### Installation
 
-- Montaż bezinwazyjny – bez wiercenia i cięcia  
-- Dopasowanie do fabrycznych punktów montażowych (OE fit)  
-- Instalacja typu „plug & play"  
+- Nicht-invasive Installation – kein Bohren oder Schneiden
+- Anpassung an werkseitige Befestigungspunkte (OE-Passform)
+- Plug & Play-Installation
 
-### Specyfikacja techniczna
+### Technische Spezifikationen
 
-- Materiał: Stop aluminium 6061  
-- Proces produkcji: Piaskowanie, anodowanie, malowanie proszkowe  
-- Waga: ok. 2,5 kg  
-- Kompatybilność: Jeep Wrangler / Jeep Gladiator JT  
-- Maksymalna średnica trzonka łopaty: 28 mm (1.1")  
+- Material: 6061 Aluminiumlegierung
+- Produktionsprozess: Sandstrahlen, Eloxieren, Pulverschichten
+- Gewicht: ca. 2,5 kg
+- Kompatibilität: Jeep Wrangler / Jeep Gladiator JT
+- Maximaler Schaufelschaftdurchmesser: 28 mm (1,1")
 
-### Zawartość zestawu
+### Inhalte festlegen
 
-- Wielofunkcyjny uchwyt 3w1 na klapę – 1 komplet  
+- Multifunktionaler 3in1-Klappenhalter – 1 Set

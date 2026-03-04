@@ -1,19 +1,19 @@
-﻿---
-lang: pl
-title: Poszerzenia błotników
-description: Poszerzenia błotników do pickupów i samochodów off-road - trwałe rozwiązania poprawiające ochronę i estetykę pojazdu.
-category: Poszerzenia błotników
+---
+lang: de
+title: Kotflügelverbreiterungen
+description: Kotflügelverbreiterungen für Pickups und Offroad-Fahrzeuge - langlebige Lösungen für mehr Schutz und bessere Optik.
+category: Kotflügelverbreiterungen
 ---
 
 <section class="pt-xlarge products-category">
 <div class="container">
-  {% set breadcrumbHome = "Strona główna" %}
-  {% set breadcrumbOffer = "Oferta" %}
-  {% set breadcrumbOfferUrl = "/oferta/" %}
+  {% set breadcrumbHome = "Startseite" %}
+  {% set breadcrumbOffer = "Angebot" %}
+  {% set breadcrumbOfferUrl = "/angebot/" %}
   {% if lang == "en" %}
-  {% set breadcrumbHome = "Home" %}
-  {% set breadcrumbOffer = "Offer" %}
-  {% set breadcrumbOfferUrl = "/offer/" %}
+  {% set breadcrumbHome = "Heim" %}
+  {% set breadcrumbOffer = "Angebot" %}
+  {% set breadcrumbOfferUrl = "/angebot/" %}
   {% endif %}
   <nav class="breadcrumbs uppercase small color-accent-1">
     <a href="{{ langPrefix }}/">{{ breadcrumbHome }}</a>
@@ -35,7 +35,7 @@ category: Poszerzenia błotników
           {% productImage product.data.productImage, product.data.title %}
           <div class="product-card-content p-4 bg-light-1">
           <h3 class="h4 mt-0">{{ product.data.title }}</h3>
-          <a href="{{ product.url | url }}" class="color-accent-1 small">Zobacz więcej &rarr;</a>
+          <a href="{{ product.url | url }}" class="color-accent-1 small">Weitere &rarr;</a>
           </div>
         </article>
         </a>
@@ -43,7 +43,7 @@ category: Poszerzenia błotników
       {% endfor %}
     </div>
   {% else %}
-    <p>Brak produktów w tej kategorii.</p>
+    <p>In diesen Kategorien sind keine Produkte vorhanden.</p>
   {% endif %}
   </div>
 </section>

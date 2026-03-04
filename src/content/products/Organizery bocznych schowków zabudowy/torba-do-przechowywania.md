@@ -1,12 +1,11 @@
 ---
-lang: pl
+lang: de
 layout: "layouts/product.njk"
-permalink: /produkty/organizery-bocznych-schowkow-zabudowy-jd10/
-title: Organizery bocznych schowków zabudowy JD10
-description: Zaawansowany system przechowywania ładunku JUSN do Toyoty Tundra. Aluminiowa konstrukcja, 8 skrzyń po 25L każda oraz zintegrowane oświetlenie bezpieczeństwa.
+title: Organizer für seitliche Staufächer der JD10-Karosserie
+description: JUSN fortschrittliches Frachtlagersystem für Toyota Tundra. Aluminiumstruktur, 8 Boxen a 25 l und integrierte Sicherheitsbeleuchtung.
 productImage: /content/products/img/torbado-przchowywania2.png
 categories:
-  - Organizery bocznych schowków zabudów
+  - Organizer für seitliche Staufächer
 price: 3499
 order: 11
 

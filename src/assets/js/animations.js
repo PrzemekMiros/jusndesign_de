@@ -32,7 +32,7 @@ function scrollToSection(targetPosition) {
   lenis.scrollTo(targetPosition);
 }
 
-// Obsługa linków kotwicowych
+// Ankerlinks unterstützen
 document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   anchor.addEventListener("click", function (e) {
     e.preventDefault();
@@ -54,10 +54,10 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   });
 });
 
-// Zapobiegaj przewijaniu przy ładowaniu strony
+// Scrollen beim Laden der Seite verhindern
 window.addEventListener("load", () => {
-  window.scrollTo(0, 0); // Ustaw przewijanie na samą górę
-  lenis.scrollTo(0, { immediate: true }); // Ustaw natychmiast Lenis na górę
+  window.scrollTo(0, 0); // Scrollposition ganz nach oben setzen
+  lenis.scrollTo(0, { immediate: true }); // Lenis sofort an den Seitenanfang setzen
 });
 
 // Synchronizacja Lenis i ScrollTrigger
@@ -68,7 +68,7 @@ gsap.ticker.add((time) => {
 });
 
 
-  if (window.matchMedia("(min-width: 767px)").matches) {
+  if (window.matchMedia("(Mindestbreite: 767px)").matches) {
 
   // Paragraph --------------------------------------------------------------
   if (document.querySelector(".split-lines")) {
@@ -90,8 +90,8 @@ gsap.ticker.add((time) => {
         ease: "power3",
         scrollTrigger: {
           trigger: element,
-          start: "top 95%",
-          //toggleActions: 'restart pause reverse pause',
+          start: "Top 95 %",
+          //toggleActions: 'Neustart-Pause Rückwärts-Pause',
         },
       });
     });
@@ -100,15 +100,15 @@ gsap.ticker.add((time) => {
   const textHighlights = document.querySelectorAll(".text-highlight");
   textHighlights.forEach((textHighlight) => {
     const splitText = new SplitText(textHighlight, {
-      type: "lines, chars",
+      type: "Zeilen, Zeichen",
       charsClass: "char-highlight"
     });
     const tlh = gsap.timeline({
       scrollTrigger: {
         trigger: textHighlight, 
         scrub: 1,
-        start: "top 70%", 
-        end: "bottom 80%" 
+        start: "Top 70 %", 
+        end: "untere 80 %" 
       }
     });
     tlh.from(".char-highlight", {
@@ -127,7 +127,7 @@ gsap.ticker.add((time) => {
       delay: .1,
       scrollTrigger: {
         trigger: fadeInItem,
-        start: "top 95%",
+        start: "Top 95 %",
       },
     });
   });
@@ -161,14 +161,14 @@ gsap.ticker.add((time) => {
       ease: Power2.easeInOut,
       scrollTrigger: {
         trigger: '.line-x',
-        start: "top 90%",
+        start: "Top 90 %",
       },
     });
   });
 
     // Parallax
       gsap.utils.toArray(".parallax-wrap").forEach(function (container) {
-        let image = container.querySelector("picture img");
+        let image = container.querySelector("Bildimg");
         gsap.set(".parallax-wrap", {overflow: "hidden"});
   
         let tl = gsap.timeline({
@@ -193,8 +193,8 @@ gsap.ticker.add((time) => {
             ease: "none",
             scrollTrigger: {
                 trigger: ".parallax-container",
-                start: "top top",
-                end: "bottom top",
+                start: "oben oben",
+                end: "unten oben",
                 scrub: true
             }
         });
@@ -204,8 +204,8 @@ gsap.ticker.add((time) => {
             ease: "none",
             scrollTrigger: {
                 trigger: ".parallax-container",
-                start: "top top",
-                end: "bottom top",
+                start: "oben oben",
+                end: "unten oben",
                 scrub: true
             }
         });
@@ -215,8 +215,8 @@ gsap.ticker.add((time) => {
             ease: "none",
             scrollTrigger: {
                 trigger: ".parallax-container",
-                start: "top top",
-                end: "bottom top",
+                start: "oben oben",
+                end: "unten oben",
                 scrub: true
             }
         });
@@ -227,8 +227,8 @@ gsap.ticker.add((time) => {
             ease: "none",
             scrollTrigger: {
                 trigger: ".parallax-container",
-                start: "top top",
-                end: "bottom top",
+                start: "oben oben",
+                end: "unten oben",
                 scrub: true
             }
         });
@@ -242,19 +242,19 @@ function imageReveal() {
     let clipPath;
     // Left to right
     if (container.classList.contains("reveal--left")) {
-      clipPath = "inset(0 0 0 100%)";
+      clipPath = "Einschub (0 0 0 100 %)";
     }
     // Right to left
     if (container.classList.contains("reveal--right")) {
-      clipPath = "inset(0 100% 0 0)";
+      clipPath = "Einschub(0 100 % 0 0)";
     }
     // Top to bottom
     if (container.classList.contains("reveal--top")) {
-      clipPath = "inset(0 0 100% 0)";
+      clipPath = "Einschub (0 0 100 % 0)";
     }
     // Bottom to top
     if (container.classList.contains("reveal--bottom")) {
-      clipPath = "inset(100% 0 0 0)";
+      clipPath = "Einschub (100 % 0 0 0)";
     }
 
     const image = container.matches("img") ? container : container.querySelector("img");
@@ -263,8 +263,8 @@ function imageReveal() {
     const tl = gsap.timeline({
       scrollTrigger: {
         trigger: container,
-        start: "top bottom",
-        end: "bottom top",
+        start: "oben unten",
+        end: "unten oben",
       }
     });
 
@@ -300,8 +300,8 @@ imageReveal();
       y: "-25%",
       scrollTrigger: {
         trigger: ".footer-parallax",
-        start: "top bottom",
-        end: "bottom 85%",
+        start: "oben unten",
+        end: "untere 85 %",
         scrub: true,
       },
     });
@@ -354,15 +354,15 @@ imageReveal();
   }; 
 
      // Scroll progress
-     if (window.matchMedia("(min-width: 767px)").matches) {
+     if (window.matchMedia("(Mindestbreite: 767px)").matches) {
       gsap.to(".scrollprogress", {
        height: "100vh",
        ease: 'none',
        scrollTrigger: { 
 
          trigger: ".scrollContainer",
-         start: "top 0%",
-         end: "bottom 100%",
+         start: "Top 0 %",
+         end: "unten 100 %",
          scrub: true,
        }
      });
@@ -371,7 +371,7 @@ imageReveal();
 
          // Nav menu
          const menuToggle = document.getElementById("menuToggle");
-         const menuLinks = document.querySelectorAll(".main-menu a");
+         const menuLinks = document.querySelectorAll(".Hauptmenü a");
          const menuBar = gsap.timeline();
          var tl = gsap.timeline({ paused: true});
          tl.to('.fullpage-menu', {
@@ -384,7 +384,7 @@ imageReveal();
              opacity: 0,
              ease: 'Expo.easeInOut'
          });
-         tl.from('.main-menu li a', {
+         tl.from('.Hauptmenü li a', {
              duration: .8,
              y:"110%",
              stagger: 0.05,

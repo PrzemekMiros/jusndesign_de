@@ -1,9 +1,8 @@
 ---
-lang: pl
+lang: de
 layout: "layouts/product.njk"
-permalink: /produkty/zabudowa-paki-jd-10-toyota-tacoma-2024/
-title: Zabudowa JD10 Toyota Tacoma 2024+
-description: Lekka i bardzo wytrzymała zabudowa którą cechuje wyjątkowa precyzja wykonania, dbałość o szczegóły oraz bardzo praktyczne rozwiązania ułatwiające komfortowe użytkowanie. Spójna estetyka dopasowana do pojazdów pick dopełnienia całość czyniąc zabudowę niepowtarzalną. Produkt spełni oczekiwania najbardziej wymagających użytkowników zarówno w codziennej eksploatacji jak i wyprawach na koniec świata. 
+title: JD10 Toyota Tacoma 2024+ Karosserie
+description: Eine leichte und sehr langlebige Struktur, die sich durch außergewöhnliche Präzision in der Verarbeitung, Liebe zum Detail und sehr praktische Lösungen auszeichnet, die eine komfortable Nutzung ermöglichen. Eine einheitliche, auf die Pick-Fahrzeuge abgestimmte Ästhetik ergänzt das Ganze und macht das Bauwerk einzigartig. Das Produkt wird die Erwartungen der anspruchsvollsten Benutzer erfüllen, sowohl im täglichen Gebrauch als auch bei Expeditionen ans Ende der Welt.
 productImage: /content/products/img/zabudowa-eu.png
 galleryImages:
   - /content/products/img/zabudowa-jd10-tacoma-1.jpg
@@ -14,18 +13,18 @@ galleryImages:
   - /content/products/img/zabudowa-jd10-tacoma-6.jpg
   - /content/products/img/zabudowa-jd10-tacoma-7.jpg
 categories:
-  - Zabudowy do pickupów
+  - Pickup-Aufbauten
 price: 5499
 order: 22
 
 # Dane techniczne dla szablonu
 brand: JUSN
-material: Stop aluminium i magnezu
-capacityStatic: 500 kg
+material: Aluminium- und Magnesiumlegierung
+capacityStatic: 500kg
 capacityDynamic: 300 kg
-process: Obróbka CNC, Anodowanie i Malowanie Proszkowe
-weight: 62 kg
-shippingInfo: Czas realizacji wynosi 15 dni, transport morski i ladowy zajmuje okolo 40 dni.
+process: CNC-Bearbeitung, Eloxierung und Pulverbeschichtung
+weight: 62kg
+shippingInfo: Die Vorlaufzeit beträgt 15 Tage, der See- und Landtransport dauert etwa 40 Tage.
 Installation:
   difficulty: 4
   professional_required: true
@@ -33,33 +32,33 @@ Installation:
 ---
 
 
-## Standardowe wyposażenie zabudowy:
+## Serienmäßige Aufbauausstattung:
 
-- Zabudowa posiada otwierane tylne i boczne drzwi, w jednych z bocznych drzwi jest umieszczony schowek.  
-- Zamki drzwi posiadają zabezpieczenie gumowe zapobiegające przed dostawaniem się wilgoci, brudu, czy zamarzaniem.
-- Dwie belki dachowe do montażu namiotu dachowego lub innych przedmiotów
-- Schowek w drzwiach bocznych, 
-- Oświetlenie wewnętrzne, 
-- Światło stop, 
+- Die Karosserie verfügt über zu öffnende Heck- und Seitentüren und eine der Seitentüren verfügt über ein Staufach.
+- Die Türschlösser verfügen über einen Gummischutz, um Feuchtigkeit, Schmutz oder Frost zu verhindern.
+- Zwei Dachträger zur Montage eines Dachzeltes oder anderer Gegenstände
+- Ablagefach in den Seitentüren,
+- Innenbeleuchtung,
+- Stopplicht,
 
-Uchwyty umożliwiające podnoszenie zabudowy do góry są bardzo przydatne gdy planujemy częsty demontaż zabudowy i chcemy umieszczać zabudowę na aucie za pomocą systemu podnoszącego np. do sufitu garażu. 
+Griffe, mit denen Sie die Karosserie anheben können, sind sehr nützlich, wenn Sie planen, die Karosserie häufig zu demontieren und die Karosserie mithilfe eines Hebesystems, z. an der Garagendecke.
 
-- Otwierane stopnie, które umożliwiają wejście na dach zabudowy. 
-- Instalacje elektryczną
-- Okno wentylacyjne
-- Panel molle 
+- Zu öffnende Stufen, die den Zugang zum Dach des Gebäudes ermöglichen.
+- Elektroinstallationen
+- Belüftungsfenster
+- Molle-Panel
 
 
-## Opcjonalne wyposażenie: 
+## Optionale Ausstattung:
 
-- Schowek umieszczony w drugim boku zabudowy
-- Schowek umieszczony na przednim panelu
-- Uchwyt na flage - przydatny przy poruszaniu się w warunkach pustynnych
-- Stolik turystyczny mocowany pod dachem zabudowy
-- Organizery dopasowane do bocznych schowków
+- Ablagefach auf der anderen Seite der Struktur
+- Ablagefach an der Frontplatte
+- Fahnenhalter – nützlich beim Umzug unter Wüstenbedingungen
+- Touristentisch unter dem Dach des Gebäudes montiert
+- Auf die seitlichen Ablagefächer zugeschnittener Organizer
 
-Posiadamy równie doskonałej jakości platformy wysuwane mocowane do podłogi paki - bez konieczności wiercenia otworów w podłodze.
+Wir verfügen über ebenso hochwertige ausziehbare Plattformen, die mit Kisten am Boden befestigt werden – ohne dass Löcher in den Boden gebohrt werden müssen.
 
-Zabudowa jest dostarczana w trzech kartonach do samodzielnego montażu. Jeżeli nie jesteś zainteresowany składaniem i montażem zabudowy umów się z naszym serwisem, zajmiemy się tym za Ciebie. 
+Die Struktur wird in drei Kartons zur Selbstmontage geliefert. Sollten Sie kein Interesse an der Montage und Montage der Karosserie haben, vereinbaren Sie einen Termin mit unserem Servicecenter und wir übernehmen das für Sie.
 
-Jeżeli nie masz czasu na przyjazd do naszego serwisu, laweta odbierze samochód z pod Twojego domu a po zamontowaniu zabudowy wróci na to samo miejsce. Nie ma rzeczy nie możliwych, wystarczy porozmawiać więc zapraszamy do kontaktu z naszymi doradcami.
+Wenn Sie keine Zeit haben, zu unserem Servicecenter zu kommen, holt der Abschleppwagen das Auto bei Ihnen zu Hause ab und bringt es nach der Montage der Karosserie wieder an denselben Ort zurück. Nichts ist unmöglich, reden Sie einfach, kontaktieren Sie dazu unseren Berater.

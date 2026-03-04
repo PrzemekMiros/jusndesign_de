@@ -1,56 +1,55 @@
 ---
 layout: "layouts/product.njk"
-permalink: /produkty/organizer-skrzyni-ladunkowej-toyota-tundra/
-title: Organizer skrzyni ładunkowej do Toyota Tundra – system bagażowy i skrzynie cargo
-description: Profesjonalny system cargo JUSN do Toyota Tundra. Aluminiowa konstrukcja, górny bagażnik i modułowe skrzynie zapewniające maksymalną organizację przestrzeni ładunkowej.
+title: Cargobox-Organizer für Toyota Tundra – Gepäcksystem und Cargoboxen
+description: Professionelles JUSN-Ladungssystem für Toyota Tundra. Aluminiumstruktur, oberer Kofferraum und modulare Boxen sorgen für maximale Organisation des Laderaums.
 productImage: /content/products/img/system-przech-1.webp
 categories:
-  - Systemy przechowywania ładunku
+  - Ladungsspeichersysteme
 price: 3499
 order: 6
 
 # Dane techniczne dla szablonu
 brand: JUSN
-material: Stop aluminium (6061), stal węglowa (Q235)
-process: Obróbka CNC, anodowanie oraz malowanie natryskowe
+material: Aluminiumlegierung (6061), Kohlenstoffstahl (Q235)
+process: CNC-Bearbeitung, Eloxieren und Spritzlackieren
 weight: 106
-shippingInfo: Czas realizacji wynosi 15 dni, a transport morski wraz z transportem lądowym trwa około 40 dni.
+shippingInfo: Die Lieferzeit beträgt 15 Tage, der Seetransport zusammen mit dem Landtransport dauert etwa 40 Tage.
 installation:
   difficulty: 4
   professional_required: true
-  method: Dane OE – montaż typu Plug & Play
+  method: OE-Daten - Plug-&-Play-Montage
 ---
 
-**Ważne:** Przed zamówieniem prosimy o kontakt oraz przesłanie numeru VIN pojazdu i zdjęcia miejsca montażu w celu potwierdzenia kompatybilności z Toyota Tundra.
+**Wichtig:** Bitte kontaktieren Sie uns vor der Bestellung und senden Sie die VIN-Nummer des Fahrzeugs und ein Foto des Einbauorts, um die Kompatibilität mit Toyota Tundra zu bestätigen.
 
-Spełnij wszystkie swoje wyobrażenia o organizacji przestrzeni ładunkowej pick-upa.  
-System JUSN to profesjonalne rozwiązanie stworzone z myślą o użytkownikach Toyoty Tundra, którzy oczekują trwałości, funkcjonalności i perfekcyjnego porządku w skrzyni ładunkowej.
+Erfüllen Sie alle Ihre Vorstellungen zur Organisation des Laderaums eines Pickups.
+Das JUSN-System ist eine professionelle Lösung für Toyota Tundra-Benutzer, die Haltbarkeit, Funktionalität und perfekte Ordnung in der Ladefläche erwarten.
 
-Odkryj nowy poziom organizacji skrzyni ładunkowej z JUSN!
+Entdecken Sie mit JUSN eine neue Ebene der Ladeflächenorganisation!
 
-### Dane techniczne
-* **Materiał:** Stop aluminium (6061), stal węglowa (Q235)
-* **Proces produkcji:** Obróbka CNC, anodowanie oraz malowanie natryskowe
+### Technische Daten
+* **Material:** Aluminiumlegierung (6061), Kohlenstoffstahl (Q235)
+* **Produktionsprozess:** CNC-Bearbeitung, Eloxieren und Spritzlackieren
 
-### Cechy produktu
-* **Wyrazisty design:** Tłoczenie integralne i precyzyjna obróbka CNC nadają pickupowi nowoczesny, terenowy charakter.
-* **Odporność na warunki atmosferyczne:** Anodowana i malowana proszkowo powierzchnia chroni przed promieniowaniem UV, kwaśnymi deszczami i korozją.
-* **Wygodny dostęp boczny:** Górne siłowniki hydrauliczne umożliwiają otwieranie systemu na bok, co znacznie ułatwia załadunek i rozładunek.
-* **Zorganizowana przestrzeń:** Po każdej stronie znajdują się cztery pojemne skrzynie o pojemności 25 litrów, idealne do segregacji wyposażenia.
-* **Praktyczna konstrukcja:** Ażurowa powierzchnia skrzyń pozwala na wygodne zawieszanie drobnych akcesoriów.
-* **Bezpieczeństwo:** Możliwość podłączenia dodatkowego oświetlenia do świateł stopu, pozycyjnych i dziennych poprawia widoczność po zmroku.
-* **Wielofunkcyjny bagażnik:** Górny stelaż doskonale sprawdzi się do przewożenia namiotów dachowych, walizek oraz dużego ekwipunku wyprawowego.
-* **Dodatkowe opcje przechowywania:** Wewnętrzne płyty rozszerzające pozwalają na montaż drobnych urządzeń i akcesoriów.
+### Produktmerkmale
+* **Explizites Design:** Integrierte Prägung und präzise CNC-Bearbeitung verleihen dem Pickup einen modernen Offroad-Charakter.
+* **Witterungsbeständigkeit:** Eloxierte und pulverbeschichtete Oberfläche schützt vor UV-Strahlung, saurem Regen und Korrosion.
+* **Bequemer seitlicher Zugang:** Die oberen Hydraulikzylinder ermöglichen das seitliche Öffnen des Systems, was das Be- und Entladen erheblich erleichtert.
+* **Organisierter Raum:** Auf jeder Seite befinden sich vier geräumige Boxen mit einem Fassungsvermögen von 25 Litern, ideal zum Trennen der Ausrüstung.
+* **Praktisches Design:** Die durchbrochene Oberfläche der Boxen ermöglicht das praktische Aufhängen kleiner Accessoires.
+* **Sicherheit:** Die Möglichkeit, zusätzliche Beleuchtung an Brems-, Positions- und Tagfahrlicht anzuschließen, verbessert die Sichtbarkeit bei Nacht.
+* **Multifunktionskoffer:** Der Oberrahmen eignet sich perfekt für den Transport von Dachzelten, Koffern und großer Expeditionsausrüstung.
+* **Zusätzliche Aufbewahrungsmöglichkeiten:** Interne Erweiterungsplatten ermöglichen den Einbau von Kleingeräten und Zubehör.
 
-### Montaż
-* **Sposób montażu:** Dane OE – Plug & Play
-* **Poziom trudności:** 4 / 5
-* **Wymagana instalacja profesjonalna:** Tak
+### Installation
+* **Installationsmethode:** OE-Daten – Plug & Play
+* **Schwierigkeitsgrad:** 4 / 5
+* **Professionelle Installation erforderlich:** Me
 
-### Zawartość zestawu
-* System organizacji skrzyni ładunkowej – 1 komplet
+### Inhalte festlegen
+* Frachtbox-Organisationssystem – 1 Set
 
-### Informacje o wysyłce
-Waga przesyłki: **106 kg**  
-Czas produkcji: **15 dni**  
-Szacowany czas transportu morskiego i lądowego: **około 40 dni**
+### Versandinformationen
+Versandgewicht: **106 kg**
+Produktionszeit: **15 Tage**
+Geschätzte See- und Landtransportzeit: **ungefähr 40 Tage**

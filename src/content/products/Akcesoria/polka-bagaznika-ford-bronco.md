@@ -1,55 +1,54 @@
 ---
-lang: pl
+lang: de
 layout: "layouts/product.njk"
-permalink: /produkty/organizer-polka-bagaznika-ford-bronco/
-title: Organizer pólka bagaznika Ford Bronco
-description: Wytrzymała półka bagażowa do Ford Bronco. Posiada system szybkiego demontażu, w pełni metalową konstrukcję oraz panele taktyczne dla optymalnej organizacji.
+title: Ford Bronco Kofferraumregal-Organizer
+description: Robuster Gepäckträger für Ford Bronco. Es verfügt über ein Schnellzerlegungssystem, eine Vollmetallkonstruktion und taktische Einsätze für eine optimale Organisation.
 productImage: /content/products/img/wew-polka-bagaz-bronco.png
 categories:
-  - Inne akcesoria
+  - Weiteres Zubehor
 price: 1850
 order: 7
 
 # Dane techniczne dla szablonu
 brand: JUSN
-material: Stop aluminium (6061) i Stal węglowa (Q235)
-process: Grawerowanie CNC oraz Malowanie proszkowe
+material: Aluminiumlegierung (6061) und Kohlenstoffstahl (Q235)
+process: CNC-Gravur und Pulverbeschichtung
 weight: 12.5
-shippingInfo: Prosimy o kontakt i podanie numeru VIN pojazdu oraz zdjęcia miejsca montażu w celu weryfikacji kompatybilności.
+shippingInfo: Bitte kontaktieren Sie uns und geben Sie die VIN-Nummer Ihres Fahrzeugs und ein Foto des Installationsorts an, um die Kompatibilität zu überprüfen.
 Installation:
   difficulty: 3
   professional_required: true
-  method: Dopasowanie OE (Bezinwazyjny montaż)
+  method: OE-Passform (nicht-invasiver Einbau)
 ---
 
 
-## Standardowe wyposażenie zabudowy:
+## Serienmäßige Aufbauausstattung:
 
-- Zabudowa posiada otwierane tylne i boczne drzwi, w jednych z bocznych drzwi jest umieszczony schowek.  
-- Zamki drzwi posiadają zabezpieczenie gumowe zapobiegające przed dostawaniem się wilgoci, brudu, czy zamarzaniem.
-- Dwie belki dachowe do montażu namiotu dachowego lub innych przedmiotów
-- Schowek w drzwiach bocznych, 
-- Oświetlenie wewnętrzne, 
-- Światło stop, 
+- Die Karosserie verfügt über zu öffnende Heck- und Seitentüren und eine der Seitentüren verfügt über ein Staufach.
+- Die Türschlösser verfügen über einen Gummischutz, um Feuchtigkeit, Schmutz oder Frost zu verhindern.
+- Zwei Dachträger zur Montage eines Dachzeltes oder anderer Gegenstände
+- Ablagefach in den Seitentüren,
+- Innenbeleuchtung,
+- Stopplicht,
 
-Uchwyty umożliwiające podnoszenie zabudowy do góry są bardzo przydatne gdy planujemy częsty demontaż zabudowy i chcemy umieszczać zabudowę na aucie za pomocą systemu podnoszącego np. do sufitu garażu. 
+Griffe, mit denen Sie die Karosserie anheben können, sind sehr nützlich, wenn Sie planen, die Karosserie häufig zu demontieren und die Karosserie mithilfe eines Hebesystems, z. an der Garagendecke.
 
-- Otwierane stopnie, które umożliwiają wejście na dach zabudowy. 
-- Instalacje elektryczną
-- Okno wentylacyjne
-- Panel molle 
+- Zu öffnende Stufen, die den Zugang zum Dach des Gebäudes ermöglichen.
+- Elektroinstallationen
+- Belüftungsfenster
+- Molle-Panel
 
 
-## Opcjonalne wyposażenie: 
+## Optionale Ausstattung:
 
-- Schowek umieszczony w drugim boku zabudowy
-- Schowek umieszczony na przednim panelu
-- Uchwyt na flage - przydatny przy poruszaniu się w warunkach pustynnych
-- Stolik turystyczny mocowany pod dachem zabudowy
-- Organizery dopasowane do bocznych schowków
+- Ablagefach auf der anderen Seite der Struktur
+- Ablagefach an der Frontplatte
+- Fahnenhalter – nützlich beim Umzug unter Wüstenbedingungen
+- Touristentisch unter dem Dach des Gebäudes montiert
+- Auf die seitlichen Ablagefächer zugeschnittener Organizer
 
-Posiadamy równie doskonałej jakości platformy wysuwane mocowane do podłogi paki - bez konieczności wiercenia otworów w podłodze.
+Wir verfügen über ebenso hochwertige ausziehbare Plattformen, die mit Kisten am Boden befestigt werden – ohne dass Löcher in den Boden gebohrt werden müssen.
 
-Zabudowa jest dostarczana w trzech kartonach do samodzielnego montażu. Jeżeli nie jesteś zainteresowany składaniem i montażem zabudowy umów się z naszym serwisem, zajmiemy się tym za Ciebie. 
+Die Struktur wird in drei Kartons zur Selbstmontage geliefert. Sollten Sie kein Interesse an der Montage und Montage der Karosserie haben, vereinbaren Sie einen Termin mit unserem Servicecenter und wir übernehmen das für Sie.
 
-Jeżeli nie masz czasu na przyjazd do naszego serwisu, laweta odbierze samochód z pod Twojego domu a po zamontowaniu zabudowy wróci na to samo miejsce. Nie ma rzeczy nie możliwych, wystarczy porozmawiać więc zapraszamy do kontaktu z naszymi doradcami.
+Wenn Sie keine Zeit haben, zu unserem Servicecenter zu kommen, holt der Abschleppwagen das Auto bei Ihnen zu Hause ab und bringt es nach der Montage der Karosserie wieder an denselben Ort zurück. Nichts ist unmöglich, reden Sie einfach, kontaktieren Sie dazu unseren Berater.

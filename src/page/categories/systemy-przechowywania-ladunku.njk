@@ -1,19 +1,19 @@
 ---
-lang: pl
+lang: de
 title: Zabudowy Bed Rack
-description: Profesjonalne systemy przechowywania ładunku - stabilność, bezpieczeństwo i maksymalne wykorzystanie przestrzeni Twoim pickupie.
-category: Systemy przechowywania ładunku
+description: Professionelle Ladungsspeichersysteme - Stabilität, Sicherheit und maximale Raumnutzung in Ihrem Pickup.
+category: Ladungsspeichersysteme
 ---
 
 <section class="pt-xlarge products-category">
 <div class="container">
-  {% set breadcrumbHome = "Strona główna" %}
-  {% set breadcrumbOffer = "Oferta" %}
-  {% set breadcrumbOfferUrl = "/oferta/" %}
+  {% set breadcrumbHome = "Startseite" %}
+  {% set breadcrumbOffer = "Angebot" %}
+  {% set breadcrumbOfferUrl = "/angebot/" %}
   {% if lang == "en" %}
-  {% set breadcrumbHome = "Home" %}
-  {% set breadcrumbOffer = "Offer" %}
-  {% set breadcrumbOfferUrl = "/offer/" %}
+  {% set breadcrumbHome = "Heim" %}
+  {% set breadcrumbOffer = "Angebot" %}
+  {% set breadcrumbOfferUrl = "/angebot/" %}
   {% endif %}
   <nav class="breadcrumbs uppercase small color-accent-1">
     <a href="{{ langPrefix }}/">{{ breadcrumbHome }}</a>
@@ -28,12 +28,12 @@ category: Systemy przechowywania ładunku
       <div class="row g-1 g-md-5">
         <div class="col-md-4">
           <div class="description-content">
-            <h2 class="mt-3">Systemy bagażowe / organizery paki </h2>
+            <h2 class="mt-3">Gepäcksysteme/Paketorganisatoren </h2>
           </div>
         </div>
         <div class="col-md-8">
-             <p class="mb-2">W przypadku, gdy pełna zabudowa nie może być zamontowana na Twoim pickupie chociażby ze względu na zbyt dużą wysokość po zamontowaniu namiotu dachowego i ograniczenia wysokości w garażach podziemnych, ograniczenia wagowe lub inne przeciwwskazania, mamy na to kilka rozwiązań. </p>
-             <a href="#opis" class="small color-accent-1">Czytaj więcej &rarr; </a>
+             <p class="mb-2">Sollte die Montage der Komplettkarosserie auf Ihrem Pickup aufgrund der zu hohen Höhe nach der Dachzeltmontage, Höhenbeschränkungen in Tiefgaragen, Gewichtsbeschränkungen oder anderen Kontraindikationen nicht möglich sein, haben wir mehrere Lösungen. </p>
+             <a href="#opis" class="small color-accent-1">Mehr erfahren &rarr; </a>
 
         </div>
       </div>
@@ -51,7 +51,7 @@ category: Systemy przechowywania ładunku
           {% productImage product.data.productImage, product.data.title %}
           <div class="product-card-content p-4 bg-light-1">
           <h3 class="h4 mt-0 line-clamp-3">{{ product.data.title }}</h3>
-          <a href="{{ product.url | url }}" class="color-accent-1 small">Zobacz więcej &rarr;</a>
+          <a href="{{ product.url | url }}" class="color-accent-1 small">Weitere &rarr;</a>
           </div>
         </article>
         </a>
@@ -59,7 +59,7 @@ category: Systemy przechowywania ładunku
       {% endfor %}
     </div>
   {% else %}
-    <p>Brak produktów w tej kategorii.</p>
+    <p>In diesen Kategorien sind keine Produkte vorhanden.</p>
   {% endif %}
   </div>
 </section>
@@ -71,11 +71,11 @@ category: Systemy przechowywania ładunku
         <div class="col-md-7">
           <div class="description-content">
             <p>
-Zabudowy o niższej wysokości lub organizery przestrzeni ładunkowej, które mają mniejszy wymiar i wagę, ale pozwalają na wybrnie odpowiedniej opcji dopasowanej do potrzeb, przewożenie ładunków takich jak koło zapasowe, namiot, platforma startowa dla drona, czy inny drobny ekwipunek. 
+Strukturen mit geringerer Höhe oder Laderaum-Organizer, die in Größe und Gewicht kleiner sind, bieten Ihnen aber die Wahl der richtigen Option, die auf Ihre Bedürfnisse zugeschnitten ist und Lasten wie ein Reserverad, ein Zelt, eine Drohnenstartplattform oder andere Kleingeräte transportiert. 
             </p>
             <div class="line-x"></div>
             <p>
-Produkty z tej kategorii możemy zamontować bez konieczności demontażu oryginalnej rolety na pace wiec jeżeli zależy nam aby roleta pozostała na samochodzie jest to odpowiednia dla Ciebie kategoria
+Produkte aus diesen Kategorien können installiert werden, ohne dass das Originalrollo am LKW demontiert werden muss. Wenn wir auch möchten, dass das Rollo am Auto verbleibt, ist dies die richtige Kategorie für Sie.
             </p>
         
           </div>

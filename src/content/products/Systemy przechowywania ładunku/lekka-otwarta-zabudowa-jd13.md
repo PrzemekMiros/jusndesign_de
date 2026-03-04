@@ -1,41 +1,41 @@
 ---
-lang: pl
+lang: de
 layout: "layouts/product.njk"
-permalink: /produkty/zabudowa-bed-rack-jeep-gladiator-jt/
-title: Zabudowa bed rack JD13
-description: Zabudowa posiada różne konfiguracje, schowki boczne, wewnętrzne wysuwane panele molle, platformy wysuwane, organizery schowków i inne opcjonalne rozwiązania. Zabudowa nie wymaga demontażu rolety twojego pickupa
+title: Installation des Bettgestells JD13
+description: Die Struktur verfügt über verschiedene Konfigurationen, seitliche Staufächer, interne einziehbare Molle-Platten, einziehbare Plattformen, Aufbewahrungsorganisatoren und andere optionale Lösungen. Für die Installation ist keine Demontage des Rollladens Ihres Pickups erforderlich
+permalink: /produkte/installation-des-bettgestells-jd13-jeep-gladiator/
 productImage: /content/products/img/organizer-paki-toyota-tundra.jpg
 categories:
-  - Systemy przechowywania ładunku
+  - Ladungsspeichersysteme
 price: 3899
 order: 1
 
 # Dane techniczne dla szablonu
 brand: JUSN
-material: Stop aluminium (6061), stal węglowa (Q235)
-process: Obróbka CNC, anodowanie oraz malowanie natryskowe
+material: Aluminiumlegierung (6061), Kohlenstoffstahl (Q235)
+process: CNC-Bearbeitung, Eloxieren und Spritzlackieren
 weight: 106
-shippingInfo: Czas realizacji wynosi 15 dni, transport morski i lądowy zajmuje około 40 dni.
+shippingInfo: Die Vorlaufzeit beträgt 15 Tage, der See- und Landtransport dauert etwa 40 Tage.
 Installation:
   difficulty: 4
   professional_required: true
   method: Dopasowanie OE - Install and Play
 ---
 
-Zrealizuj swoje marzenia o idealnie zorganizowanej przestrzeni ładunkowej. System JUSN Heavy Duty dla Jeepa Gladiatora to rozwiązanie stworzone dla najbardziej wymagających użytkowników off-road i overland.
+Verwirklichen Sie Ihren Traum von einem perfekt organisierten Laderaum. Das JUSN Heavy Duty-System für den Jeep Gladiator ist eine Lösung für die anspruchsvollsten Offroad- und Überlandnutzer.
 
-Odblokuj pełny potencjał swojego Jeepa ze sprzętem JUSN!
+Schöpfen Sie das volle Potenzial Ihres Jeeps mit JUSN-Ausrüstung aus!
 
-### Główne zalety:
+### Hauptvorteile:
 
-* **Odporność na warunki atmosferyczne:** Specjalna powłoka anodowana i malowanie proszkowe chronią przed promieniowaniem UV, kwaśnym deszczem oraz korozją, zapewniając wieloletnią trwałość systemu zabudowy.
-* **Solidna, wzmocniona konstrukcja:** Zaprojektowana, aby wytrzymać trudy podróży. System umożliwia maksymalne wykorzystanie przestrzeni bagażowej oraz wygodne uporządkowanie rzeczy w oddzielnych strefach dla łatwego dostępu podczas wypraw.
-* **Praktyczne rozwiązania:** Zewnętrzna część skrzyń posiada przemyślane otwory, które umożliwiają zawieszanie drobnych przedmiotów, dzięki czemu najpotrzebniejsze rzeczy masz zawsze pod ręką.
-* **Konstrukcja odporna na kurz:** Specjalne, pyłoszczelne zamknięcia zapobiegają blokowaniu zamków przez zabrudzenia, utrzymując system w czystości i pełnej funkcjonalności.
-* **Bezpieczeństwo i ochrona:** Wbudowane zamki zabezpieczają zawartość przed kradzieżą, dając Ci spokój ducha w każdej podróży.
-* **Uporządkowana przestrzeń:** Po każdej stronie znajdują się 4 pojemne schowki, które umożliwiają wygodne segregowanie i szybkie odnajdywanie potrzebnych przedmiotów.
-* **Bezpieczeństwo przede wszystkim:** Możliwość podłączenia dodatkowego oświetlenia do świateł STOP, pozycyjnych i dziennych pojazdu zwiększa widoczność na drodze po zmroku.
-* **Wielofunkcyjna przestrzeń ładunkowa:** Górny bagażnik idealnie nadaje się do przewozu większych przedmiotów, takich jak namioty campingowe czy walizki – doskonałe rozwiązanie na wyprawy i podróże.
+* **Beständigkeit gegenüber Witterungseinflüssen:** Spezielle Eloxalbeschichtungen und Pulverbeschichtungen schützen vor UV-Strahlung, saurem Regen und Korrosion und sorgen für eine langfristige Haltbarkeit des Bausystems.
+* **Solide, verstärkte Konstruktion:** Entwickelt, um den Riemen des Reisens standzuhalten. Das System ermöglicht eine maximale Ausnutzung des Gepäckraums und eine praktische Organisation der Gegenstände in separaten Zonen für einen einfachen Zugriff während der Fahrt.
+* **Praktische Lösungen:** Der äußere Teil der Boxen verfügt über durchdachte Löcher, die das Aufhängen kleinerer Gegenstände ermöglichen, sodass Sie immer die nötigsten Dinge zur Hand haben.
+* **Staubdichtes Design:** Spezielle staubdichte Verschlüsse verhindern, dass Schmutz die Reißverschlüsse blockiert, sodass das System sauber und voll funktionsfähig bleibt.
+* **Sicherheit und Schutz:** Integrierte Schlösser schützen Ihren Inhalt vor Diebstahl und geben Ihnen auf jeder Reise Sicherheit.
+* **Aufgeräumter Platz:** Auf jeder Seite befinden sich 4 geräumige Fächer, die ein bequemes Sortieren und schnelles Auffinden benötigter Gegenstände ermöglichen.
+* **Sicherheit geht vor:** Die Möglichkeit, zusätzliche Beleuchtung an das Brems-, Positions- und Tagfahrlicht des Fahrzeugs anzuschließen, erhöht die Sichtbarkeit auf der Straße nach Einbruch der Dunkelheit.
+* **Multifunktionaler Laderaum:** Der obere Kofferraum ist ideal für den Transport größerer Gegenstände, wie Campingzelte oder Koffer – eine perfekte Lösung für Expeditionen und Reisen.
 
 
 

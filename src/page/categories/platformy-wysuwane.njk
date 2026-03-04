@@ -1,19 +1,19 @@
 ---
-lang: pl
-title: Platformy wysuwane JD12
-description: Platformy wysuwane JD12 - wytrzymałe systemy cargo do pickupów, zapewniające szybki dostęp i pełne wykorzystanie przestrzeni ładunkowej.
-category: Platformy wysuwane JD12
+lang: de
+title: JD12 ausziehbare Plattformen
+description: Ausziehplattformen JD12 - robuste Cargo-Systeme für Pickups, die schnellen Zugriff und vollständige Nutzung des Laderaums ermöglichen.
+category: JD12 ausziehbare Plattformen
 ---
 
 <section class="pt-xlarge products-category">
 <div class="container">
-  {% set breadcrumbHome = "Strona główna" %}
-  {% set breadcrumbOffer = "Oferta" %}
-  {% set breadcrumbOfferUrl = "/oferta/" %}
+  {% set breadcrumbHome = "Startseite" %}
+  {% set breadcrumbOffer = "Angebot" %}
+  {% set breadcrumbOfferUrl = "/angebot/" %}
   {% if lang == "en" %}
-  {% set breadcrumbHome = "Home" %}
-  {% set breadcrumbOffer = "Offer" %} 
-  {% set breadcrumbOfferUrl = "/offer/" %}
+  {% set breadcrumbHome = "Heim" %}
+  {% set breadcrumbOffer = "Angebot" %} 
+  {% set breadcrumbOfferUrl = "/angebot/" %}
   {% endif %}
   <nav class="breadcrumbs uppercase small color-accent-1">
     <a href="{{ langPrefix }}/">{{ breadcrumbHome }}</a>
@@ -28,12 +28,12 @@ category: Platformy wysuwane JD12
       <div class="row g-1 g-md-5">
         <div class="col-md-4">
           <div class="description-content">
-            <h2 class="mt-3">Platformy wysuwane </h2>
+            <h2 class="mt-3">Ausziehbare Plattformen </h2>
           </div>
         </div>
         <div class="col-md-8">
-             <p class="mb-2"> Zabudowy powierzchni ładunkowej pickupów są montowane głównie w celu zwiększenia funkcjonalności przestrzeni ładunkowej oraz zabezpieczenia jej przed warunkami atmosferycznymi. </p>
-            <p> Dobrze zorganizowany bagaż to kwestia kluczowa dla komfortu użytkowania Twojego pickupa.
+             <p class="mb-2"> Die Ladeflächenaufbauten von Pickup-Trucks werden vor allem dazu eingebaut, die Funktionalität des Laderaums zu erhöhen und ihn vor Witterungseinflüssen zu schützen. </p>
+            <p> Gut organisiertes Gepäck ist entscheidend für den Komfort bei der Nutzung von Pickups.
             </p>
 
         </div>
@@ -51,7 +51,7 @@ category: Platformy wysuwane JD12
           {% productImage product.data.productImage, product.data.title %}
           <div class="product-card-content p-4 bg-light-1">
           <h3 class="h4 mt-0">{{ product.data.title }}</h3>
-          <a href="{{ product.url | url }}" class="color-accent-1 small">Zobacz więcej &rarr;</a>
+          <a href="{{ product.url | url }}" class="color-accent-1 small">Weitere &rarr;</a>
           </div>
         </article>
         </a>
@@ -59,7 +59,7 @@ category: Platformy wysuwane JD12
       {% endfor %}
     </div>
   {% else %}
-    <p>Brak produktów w tej kategorii.</p>
+    <p>In diesen Kategorien sind keine Produkte vorhanden.</p>
   {% endif %}
   </div>
 </section>

@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="{{ lang }}">
   <head>
     {% set baseUrl = "https://jusndesigneurope.com" %}
@@ -169,87 +169,46 @@
 
   </head>
   <body class="">
-    {% set isEn = lang == "en" %}
-    {% set navOffer = "Oferta" %}
-    {% set navGallery = "Galeria" %}
+    {% set navOffer = "Angebot" %}
+    {% set navGallery = "Galerie" %}
     {% set navContact = "Kontakt" %}
     {% set navCatalog = "Katalog" %}
-    {% set megaTitleCategories = "Kategorie" %}
-    {% set megaTitleFeatured = "Polecane" %}
-    {% set urlOffer = "/oferta/" %}
-    {% set urlGallery = "/galeria/" %}
+    {% set megaTitleCategories = "Kategorien" %}
+    {% set megaTitleFeatured = "Empfohlen" %}
+    {% set urlOffer = "/angebot/" %}
+    {% set urlGallery = "/galerie/" %}
     {% set urlCatalog = "/katalog/" %}
     {% set urlContact = "/kontakt/" %}
-    {% set dropdownBedOrganizers = "Zabudowy Bed Rack" %}
-    {% set dropdownSideSteps = "Progi boczne i stopnie" %}
-    {% set productsBase = "/produkty/" %}
-    {% set urlBedOrganizers = productsBase ~ "systemy-przechowywania-ladunku/" %}
-    {% set urlSideSteps = productsBase ~ "progi-boczne-i-stopnie/" %}
-    {% set urlSlidingPlatform = productsBase ~ "platformy-wysuwane-jd12/" %}
-    {% set urlPickupBuilds = productsBase ~ "zabudowy-do-pickupow/" %}
-    {% set urlWinchGuides = productsBase ~ "prowadnice-lin-wyciagarek/" %}
-    {% set urlToolboxes = productsBase ~ "skrzynki-montowane-na-tylna-klape/" %}
-    {% set urlTailgateHandles = productsBase ~ "uchwyty-na-tylna-klape/" %}
-    {% set urlRoofHandles = productsBase ~ "uchwyty-na-dach/" %}
-    {% set urlCupHolders = productsBase ~ "uchwyty-na-kubki/" %}
-    {% set urlOther = productsBase ~ "inne-akcesoria/" %}
+    {% set dropdownBedOrganizers = "Bettregalgebäude" %}
+    {% set dropdownSideSteps = "Seitenschweller und Trittstufen" %}
+    {% set productsBase = "/produkte/" %}
+    {% set urlBedOrganizers = productsBase ~ "ladungsspeichersysteme/" %}
+    {% set urlSideSteps = productsBase ~ "seitenschweller-und-trittstufen/" %}
+    {% set urlSlidingPlatform = productsBase ~ "jd12-ausziehbare-plattformen/" %}
+    {% set urlPickupBuilds = productsBase ~ "pickup-aufbauten/" %}
+    {% set urlWinchGuides = productsBase ~ "seilfuhrungen-fur-winden/" %}
+    {% set urlToolboxes = productsBase ~ "an-der-heckklappe-montierte-boxen/" %}
+    {% set urlTailgateHandles = productsBase ~ "halterungen-fur-die-heckklappe/" %}
+    {% set urlRoofHandles = productsBase ~ "dachhalter/" %}
+    {% set urlCupHolders = productsBase ~ "getrankehalter/" %}
+    {% set urlOther = productsBase ~ "weiteres-zubehor/" %}
     {% set urlFender = productsBase ~ "poszerzenia-blotnikow/" %}
-    {% set urlTsStorage = productsBase ~ "organizery-bocznych-schowkow-zabudow/" %}
-    {% set urlBasr = productsBase ~ "zabudowy-basr/" %}
-    {% set dropdownPickupBuilds = "Zabudowy JD10" %}
-    {% set dropdownWinchGuides = "Prowadnice lin do wyciągarek" %}
-    {% set dropdownToolboxes = "Skrzynki na tylną klapę" %}
-    {% set dropdownTailgateHandles = "Uchwyty na tylną klapę" %}
-    {% set dropdownRoofHandles = "Uchwyty na dach" %}
-    {% set dropdownCupHolders = "Uchwyty na kubki" %}
-    {% set dropdownOther = "Inne akcesoria" %}
-    {% set dropdownFender = "Poszerzenia błotników" %}
-    {% set dropdownBasr = "Zabudowy BASR" %}
-    {% set dropdownTsStorage = "Organizery bocznych schowków" %}
-    {% set dropdownSlidingPlatform = "Platformy wysuwane JD12" %}
-    {% set shopCtaText = "Przejdź do sklepu" %}
+    {% set urlTsStorage = productsBase ~ "organizer-fur-seitliche-staufacher/" %}
+    {% set urlBasr = productsBase ~ "basr-strukturen/" %}
+    {% set dropdownPickupBuilds = "JD10-Karosserien" %}
+    {% set dropdownWinchGuides = "Seilführungen für Winden" %}
+    {% set dropdownToolboxes = "Heckklappenkästen" %}
+    {% set dropdownTailgateHandles = "Heckklappengriffe" %}
+    {% set dropdownRoofHandles = "Dachhalter" %}
+    {% set dropdownCupHolders = "Getränkehalter" %}
+    {% set dropdownOther = "Weiteres Zubehör" %}
+    {% set dropdownFender = "Kotflügelverbreiterungen" %}
+    {% set dropdownBasr = "BASR-Strukturen" %}
+    {% set dropdownTsStorage = "Seitliche Aufbewahrungsorganisatoren" %}
+    {% set dropdownSlidingPlatform = "JD12 ausziehbare Plattformen" %}
+    {% set shopCtaText = "Geh in den Laden" %}
     {% set shopCtaUrl = "https://ore4x4.pl/pl/brand/35-jusn-design" %}
-    {% set menuToggleLabel = "Otwórz menu" %}
-    {% if isEn %}
-      {% set navOffer = "Offer" %}
-      {% set navGallery = "Gallery" %}
-      {% set navCatalog = "Catalog" %}
-      {% set navContact = "Contact" %}
-      {% set megaTitleCategories = "Categories" %}
-      {% set megaTitleFeatured = "Featured" %}
-      {% set urlOffer = "/offer/" %}
-      {% set urlGallery = "/gallery/" %}
-      {% set urlCatalog = "/catalog/" %}
-      {% set urlContact = "/contact/" %}
-      {% set dropdownBedOrganizers = "Pick up Truck Bed organizers" %}
-      {% set dropdownSideSteps = "Side steps and running boards" %}
-      {% set dropdownSlidingPlatform = "Sliding Platforms JD12" %}
-      {% set urlBedOrganizers = "/offer/pick-up-truck-bed-organizer/" %}
-      {% set urlSideSteps = "/offer/side-steps-running-boards/" %}
-      {% set urlSlidingPlatform = "/offer/sliding-platforms-jd12/" %}
-      {% set urlPickupBuilds = "/offer/truck-canopy-hard-top/" %}
-      {% set urlWinchGuides = "/offer/winch-hawse-fairlead/" %}
-      {% set urlToolboxes = "/offer/tailgate-toolbox" %}
-      {% set urlTailgateHandles = "/offer/tailgate-bracket/" %}
-      {% set urlRoofHandles = "/offer/grab-handles/" %}
-      {% set urlCupHolders = "/offer/cup-holders/" %}
-      {% set urlOther = "/offer/other-off-road-accessories/" %}
-      {% set urlTsStorage = "/offer/truck-side-storage-organizers/" %}
-      {% set urlBasr = "/offer/basr-canopys/" %}
-      {% set dropdownPickupBuilds = "Pick up Truck Canopy" %}
-      {% set dropdownWinchGuides = "Winch Hawse Fairleads" %}
-      {% set dropdownToolboxes = "Tailgate Toolboxes" %}
-      {% set dropdownTailgateHandles = "Tailgate handles" %}
-      {% set dropdownRoofHandles = "Grab handles" %}
-      {% set dropdownCupHolders = "Cup holders" %}
-      {% set dropdownBasr = "BASR canopy" %}
-      {% set dropdownOther = "Other offroad accessories" %}
-      {% set dropdownTsStorage = "Truck side storage organizers" %}
-      {% set shopCtaText = "Visit shop" %}
-      {% set shopCtaUrl = "https://ore4x4.pl/en/brand/35-jusn-design" %}
-      {% set menuToggleLabel = "Open menu" %}
-    {% endif %}
-
+    {% set menuToggleLabel = "Menü öffnen" %}
     <div class="preloader">
       <div class="preloader_inner">
         <div class="circle-loader">
@@ -297,7 +256,7 @@
                                 <img src="/assets/img/mega/zabudowy.png" alt="{{ dropdownPickupBuilds }}">
                                 <div class="mega-vid-wrap">
                                   <video muted loop playsinline preload="none" poster="">
-                                    <source data-src="/assets/img/mega/vid/zabudowy.mp4" type="video/mp4"> Your browser does not support the video tag.
+                                    <source data-src="/assets/img/mega/vid/zabudowy.mp4" type="video/mp4"> Ihr Browser unterstützt das Video-Tag nicht.
                                   </video>
                                 </div>
                                 <span>{{ dropdownPickupBuilds }}</span>
@@ -306,7 +265,7 @@
                                 <img src="/assets/img/mega/organizery.png" alt="{{ dropdownBedOrganizers }}">
                                 <div class="mega-vid-wrap">
                                   <video muted loop playsinline preload="none" poster="">
-                                    <source data-src="/assets/img/mega/vid/organizery.mp4" type="video/mp4"> Your browser does not support the video tag.
+                                    <source data-src="/assets/img/mega/vid/organizery.mp4" type="video/mp4"> Ihr Browser unterstützt das Video-Tag nicht.
                                   </video>
                                 </div>
                                 <span>{{ dropdownBedOrganizers }}</span>
@@ -315,7 +274,7 @@
                                 <img src="/assets/img/mega/platformy.png" alt="{{ dropdownSlidingPlatform }}">
                                 <div class="mega-vid-wrap">
                                   <video muted loop playsinline preload="none" poster="">
-                                    <source data-src="/assets/img/mega/vid/platformy.mp4" type="video/mp4"> Your browser does not support the video tag.
+                                    <source data-src="/assets/img/mega/vid/platformy.mp4" type="video/mp4"> Ihr Browser unterstützt das Video-Tag nicht.
                                   </video>
                                 </div>
                                 <span>{{ dropdownSlidingPlatform }}</span>
@@ -324,7 +283,7 @@
                                 <img src="/assets/img/mega/organizery-boczne.png" alt="{{ dropdownTsStorage }}">
                                 <div class="mega-vid-wrap">
                                   <video muted loop playsinline preload="none" poster="">
-                                    <source data-src="/assets/img/mega/vid/organizery-boczne.mp4" type="video/mp4"> Your browser does not support the video tag.
+                                    <source data-src="/assets/img/mega/vid/organizery-boczne.mp4" type="video/mp4"> Ihr Browser unterstützt das Video-Tag nicht.
                                   </video>
                                 </div>
                                 <span>{{ dropdownTsStorage }}</span>
@@ -333,16 +292,16 @@
                                 <img src="/assets/img/mega/skrzynki-narzedziowe.png" alt="{{ dropdownToolboxes }}">
                                 <div class="mega-vid-wrap">
                                   <video muted loop playsinline preload="none" poster="">
-                                    <source data-src="/assets/img/mega/vid/skrzynki.mp4" type="video/mp4"> Your browser does not support the video tag.
+                                    <source data-src="/assets/img/mega/vid/skrzynki.mp4" type="video/mp4"> Ihr Browser unterstützt das Video-Tag nicht.
                                   </video>
                                 </div>
                                 <span>{{ dropdownToolboxes }}</span>
                               </a>
                               <a href="{{ langPrefix }}{{ urlCupHolders }}" class="mega-card">
-                                <img src="/assets/img/mega/uchwyty-na-kubki.png" alt="{{ dropdownCupHolders }}">
+                                <img src="/assets/img/mega/getrankehalter.png" alt="{{ dropdownCupHolders }}">
                                 <div class="mega-vid-wrap">
                                   <video muted loop playsinline preload="none" poster="">
-                                    <source data-src="/assets/img/mega/vid/kubki.mp4" type="video/mp4"> Your browser does not support the video tag.
+                                    <source data-src="/assets/img/mega/vid/kubki.mp4" type="video/mp4"> Ihr Browser unterstützt das Video-Tag nicht.
                                   </video>
                                 </div>
                                 <span>{{ dropdownCupHolders }}</span>
@@ -351,7 +310,7 @@
                                 <img src="/assets/img/mega/schody.png" alt="{{ dropdownSideSteps }}">
                                 <div class="mega-vid-wrap">
                                   <video muted loop playsinline preload="none" poster="">
-                                    <source data-src="/assets/img/mega/vid/stopnie.mp4" type="video/mp4"> Your browser does not support the video tag.
+                                    <source data-src="/assets/img/mega/vid/stopnie.mp4" type="video/mp4"> Ihr Browser unterstützt das Video-Tag nicht.
                                   </video>
                                 </div>
                                 <span>{{ dropdownSideSteps }}</span>
@@ -360,7 +319,7 @@
                                 <img src="/assets/img/mega/uchwyty-na-klape.png" alt="{{ dropdownTailgateHandles }}">
                                 <div class="mega-vid-wrap">
                                   <video muted loop playsinline preload="none" poster="">
-                                    <source data-src="/assets/img/mega/vid/uchwyty-na-klapy.mp4" type="video/mp4"> Your browser does not support the video tag.
+                                    <source data-src="/assets/img/mega/vid/uchwyty-na-klapy.mp4" type="video/mp4"> Ihr Browser unterstützt das Video-Tag nicht.
                                   </video>
                                 </div>
                                 <span>{{ dropdownTailgateHandles }}</span>
@@ -369,7 +328,7 @@
                                 <img src="/assets/img/mega/prowanice-lin.png" alt="{{ dropdownWinchGuides }}">
                                 <div class="mega-vid-wrap">
                                   <video muted loop playsinline preload="none" poster="">
-                                    <source data-src="/assets/img/mega/vid/prowadnice.mp4" type="video/mp4"> Your browser does not support the video tag.
+                                    <source data-src="/assets/img/mega/vid/prowadnice.mp4" type="video/mp4"> Ihr Browser unterstützt das Video-Tag nicht.
                                   </video>
                                 </div>
                                 <span>{{ dropdownWinchGuides }}</span>
@@ -378,25 +337,25 @@
                                 <img src="/assets/img/mega/akcesoria.png" alt="{{ dropdownOther }}">
                                 <div class="mega-vid-wrap">
                                   <video muted loop playsinline preload="none" poster="">
-                                    <source data-src="/assets/img/mega/vid/akcesoria.mp4" type="video/mp4"> Your browser does not support the video tag.
+                                    <source data-src="/assets/img/mega/vid/akcesoria.mp4" type="video/mp4"> Ihr Browser unterstützt das Video-Tag nicht.
                                   </video>
                                 </div>
                                 <span>{{ dropdownOther }}</span>
                               </a>
                               <a href="{{ langPrefix }}{{ urlRoofHandles }}" class="mega-card">
-                                <img src="/assets/img/mega/uchwyty-na-dach.png" alt="{{ dropdownRoofHandles }}">
+                                <img src="/assets/img/mega/dachhalter.png" alt="{{ dropdownRoofHandles }}">
                                 <div class="mega-vid-wrap">
                                   <video muted loop playsinline preload="none" poster="">
-                                    <source data-src="/assets/img/mega/vid/uchwyty-na-dach.mp4" type="video/mp4"> Your browser does not support the video tag.
+                                    <source data-src="/assets/img/mega/vid/dachhalter.mp4" type="video/mp4"> Ihr Browser unterstützt das Video-Tag nicht.
                                   </video>
                                 </div>
                                 <span>{{ dropdownRoofHandles }}</span>
                               </a>
                               <a href="{{ langPrefix }}{{ urlBasr }}" class="mega-card">
-                                <img src="/assets/img/mega/zabudowy-basr.png" alt="{{ dropdownBasr }}">
+                                <img src="/assets/img/mega/basr-strukturen.png" alt="{{ dropdownBasr }}">
                                 <div class="mega-vid-wrap">
                                   <video muted loop playsinline preload="none" poster="">
-                                    <source data-src="/assets/img/mega/vid/zabudowy-basr.mp4" type="video/mp4"> Your browser does not support the video tag.
+                                    <source data-src="/assets/img/mega/vid/basr-strukturen.mp4" type="video/mp4"> Ihr Browser unterstützt das Video-Tag nicht.
                                   </video>
                                 </div>
                                 <span>{{ dropdownBasr }}</span>
@@ -419,27 +378,6 @@
                 </nav>
               </div>
               <div class="col-4 col-md-3 d-flex justify-content-end"> 
-                
-                {% set urlEn = "/en/" %}
-                {% set urlPl = "/" %}
-        
-                <div class="lang-switch d-none d-lg-flex align-items-center me-3">
-                  {% if isEn %}
-                  
-                    <a href="{{ urlPl | url }}" data-no-swup class="link-hover" aria-label="Polski">
-                      <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 32 32"><path d="M1,24c0,2.209,1.791,4,4,4H27c2.209,0,4-1.791,4-4V15H1v9Z" fill="#cb2e40"></path><path d="M27,4H5c-2.209,0-4,1.791-4,4v8H31V8c0-2.209-1.791-4-4-4Z" fill="#fff"></path><path d="M5,28H27c2.209,0,4-1.791,4-4V8c0-2.209-1.791-4-4-4H5c-2.209,0-4,1.791-4,4V24c0,2.209,1.791,4,4,4ZM2,8c0-1.654,1.346-3,3-3H27c1.654,0,3,1.346,3,3V24c0,1.654-1.346,3-3,3H5c-1.654,0-3-1.346-3-3V8Z" opacity=".15"></path><path d="M27,5H5c-1.657,0-3,1.343-3,3v1c0-1.657,1.343-3,3-3H27c1.657,0,3,1.343,3,3v-1c0-1.657-1.343-3-3-3Z" fill="#fff" opacity=".2"></path></svg>
-                    </a>
-                 
-                    {% else %}
-              
-                    <a href="{{ urlEn | url }}" data-no-swup class="link-hover" aria-label="English">
-                      <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 32 32"><rect x="1" y="4" width="30" height="24" rx="4" ry="4" fill="#071b65"></rect><path d="M5.101,4h-.101c-1.981,0-3.615,1.444-3.933,3.334L26.899,28h.101c1.981,0,3.615-1.444,3.933-3.334L5.101,4Z" fill="#fff"></path><path d="M22.25,19h-2.5l9.934,7.947c.387-.353,.704-.777,.929-1.257l-8.363-6.691Z" fill="#b92932"></path><path d="M1.387,6.309l8.363,6.691h2.5L2.316,5.053c-.387,.353-.704,.777-.929,1.257Z" fill="#b92932"></path><path d="M5,28h.101L30.933,7.334c-.318-1.891-1.952-3.334-3.933-3.334h-.101L1.067,24.666c.318,1.891,1.952,3.334,3.933,3.334Z" fill="#fff"></path><rect x="13" y="4" width="6" height="24" fill="#fff"></rect><rect x="1" y="13" width="30" height="6" fill="#fff"></rect><rect x="14" y="4" width="4" height="24" fill="#b92932"></rect><rect x="14" y="1" width="4" height="30" transform="translate(32) rotate(90)" fill="#b92932"></rect><path d="M28.222,4.21l-9.222,7.376v1.414h.75l9.943-7.94c-.419-.384-.918-.671-1.471-.85Z" fill="#b92932"></path><path d="M2.328,26.957c.414,.374,.904,.656,1.447,.832l9.225-7.38v-1.408h-.75L2.328,26.957Z" fill="#b92932"></path><path d="M27,4H5c-2.209,0-4,1.791-4,4V24c0,2.209,1.791,4,4,4H27c2.209,0,4-1.791,4-4V8c0-2.209-1.791-4-4-4Zm3,20c0,1.654-1.346,3-3,3H5c-1.654,0-3-1.346-3-3V8c0-1.654,1.346-3,3-3H27c1.654,0,3,1.346,3,3V24Z" opacity=".15"></path><path d="M27,5H5c-1.657,0-3,1.343-3,3v1c0-1.657,1.343-3,3-3H27c1.657,0,3,1.343,3,3v-1c0-1.657-1.343-3-3-3Z" fill="#fff" opacity=".2"></path></svg>
-                    </a>           
-                  {% endif %}
-      
-                </div>
-
-                  
                 <a href="{{ shopCtaUrl }}" target="_blank" title="{{ shopCtaText }}" class="button-anim btn-write d-none d-lg-flex">
                   <div class="button-anim-text">
                     <span>{{ shopCtaText }}</span>
@@ -485,23 +423,6 @@
                   <div class="line-xh"></div>
                   <li>
                     <a href="{{ langPrefix }}{{ urlContact }}" title="{{ navContact }}">{{ navContact }}</a>
-                  </li>
-                  <div class="line-xh"></div>
-                  <li>
-                    <div class="mobile-lang-switch"> {% if isEn %} <a href="{{ urlPl | url }}" class="link-hover" aria-label="Polski">
-                        <svg width="26" height="18" viewBox="0 0 26 18" role="img" aria-hidden="true">
-                          <rect width="26" height="9" fill="#FFFFFF"></rect>
-                          <rect y="9" width="26" height="9" fill="#DC143C"></rect>
-                        </svg>
-                      </a> {% else %} <a href="{{ urlEn | url }}" class="link-hover" aria-label="English">
-                        <svg width="26" height="18" viewBox="0 0 26 18" role="img" aria-hidden="true">
-                          <rect width="26" height="18" fill="#012169"></rect>
-                          <rect x="0" y="7" width="26" height="4" fill="#FFFFFF"></rect>
-                          <rect x="11" y="0" width="4" height="18" fill="#FFFFFF"></rect>
-                          <rect x="0" y="8" width="26" height="2" fill="#C8102E"></rect>
-                          <rect x="12" y="0" width="2" height="18" fill="#C8102E"></rect>
-                        </svg>
-                      </a> {% endif %} </div>
                   </li>
                   <div class="line-xh"></div>
                 </ul>

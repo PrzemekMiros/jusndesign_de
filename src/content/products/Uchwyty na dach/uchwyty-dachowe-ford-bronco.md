@@ -1,63 +1,62 @@
 ---
-lang: pl
+lang: de
 layout: "layouts/product.njk"
-permalink: /produkty/uchwyt-plus-narzedzie-ratunkowe-na-dach-ford-bronco/
-title: Uchwyt + Narzędzie Ratunkowe 3w1 do Ford Bronco
-description: Wytrzymały uchwyt JUSN do Ford Bronco to profesjonalny element wyposażenia wnętrza, łączący funkcję stabilnego uchwytu dla pasażerów z praktycznym narzędziem ratunkowym 3w1. Zaprojektowany specjalnie do montażu na klatce / dachu pojazdu, znacząco poprawia bezpieczeństwo i komfort podczas jazdy w terenie, szczególnie w samochodach z podniesionym zawieszeniem.
+title: Halter + Rettungsgerät 3in1 für Ford Bronco
+description: Der langlebige JUSN-Griff für Ford Bronco ist ein professionelles Innenraumgestaltungselement, das die Funktion eines stabilen Griffs für Passagiere mit einem praktischen 3-in-1-Rettungsgerät kombiniert. Es wurde speziell für die Montage am Überrollkäfig/Dach des Fahrzeugs entwickelt und verbessert die Sicherheit und den Komfort beim Fahren im Gelände, insbesondere bei Fahrzeugen mit erhöhter Federung, erheblich.
 productImage: /content/products/img/grab-handle.jpg
 categories:
-  - Uchwyty na dach
+  - Dachhalter
 price: 250
 order: 5
 
 # Dane techniczne dla szablonu
 brand: JUSN
-material: Stop aluminium (6061)
-process: Grawerowanie CNC, Anodowanie i Tekstura Antypoślizgowa
+material: Aluminiumlegierung (6061)
+process: CNC-Gravur, Eloxierung und rutschfeste Textur
 weight: 0.6
-shippingInfo: Prosimy o kontakt i podanie numeru VIN pojazdu w celu weryfikacji kompatybilności.
+shippingInfo: Bitte kontaktieren Sie uns und geben Sie die VIN-Nummer Ihres Fahrzeugs an, um die Kompatibilität zu überprüfen.
 Installation:
   difficulty: 2
   professional_required: false
-  method: Dopasowanie OE (Bezinwazyjny montaż)
+  method: OE-Passform (nicht-invasiver Einbau)
 ---
 
-## Dlaczego warto wybrać uchwyt JUSN?
+## Warum sollten Sie sich für den JUSN-Inhaber entscheiden?
 
-Jazda w terenie wiąże się z dynamicznymi przechyłami i nierównościami, gdzie stabilny punkt podparcia dla pasażerów jest kluczowy. Uchwyt JUSN zapewnia pewny chwyt podczas trudnych manewrów, jednocześnie pełniąc rolę narzędzia awaryjnego w sytuacjach kryzysowych.
+Beim Fahren im Gelände kommt es zu dynamischen Neigungen und Unebenheiten, bei denen ein stabiler Auflagepunkt für die Passagiere entscheidend ist. Der JUSN-Griff bietet sicheren Halt bei schwierigen Manövern und dient gleichzeitig als Notfallwerkzeug in Krisensituationen.
 
-### Najważniejsze cechy
+### Hauptmerkmale
 
-- Narzędzie ratunkowe 3 w 1: uchwyt + zbijak do szyb + przecinak do pasów  
-- Dedykowany do Ford Bronco (montaż na klatce / dachu)  
-- Solidny punkt podparcia podczas jazdy w terenie  
-- Antypoślizgowa, teksturowana powierzchnia chwytu  
-- Konstrukcja premium CNC o agresywnym, terenowym designie  
-- Możliwość montażu w różnych pozycjach (przód / tył, lewa / prawa strona)  
+- 3-in-1-Rettungsgerät: Griff + Glasbrecher + Sicherheitsgurtschneider
+- Ford Bronco gewidmet (Montage am Käfig / Roof)
+- Ein solider Stützpunkt beim Fahren im Gelände
+- Rutschfeste, strukturierte Griffoberfläche
+- Hochwertige CNC-Konstruktion mit aggressivem Offroad-Design
+- Möglichkeit der Montage in verschiedenen Positionen (vorne/hinten, links/rechts)
 
-### Materiał i technologia wykonania
+### Material- und Fertigungstechnologie
 
-Produkt wykonany jest z lotniczego stopu aluminium 6061, który zapewnia doskonały stosunek wytrzymałości do masy oraz wysoką odporność na uszkodzenia mechaniczne. Uchwyt powstaje w procesie precyzyjnej obróbki CNC, a następnie poddawany jest anodowaniu oraz wykończeniu specjalną, antypoślizgową strukturą, gwarantującą pewny chwyt nawet w rękawicach lub mokrych dłoniach.
+Das Produkt besteht aus der Flugzeugaluminiumlegierung 6061, die ein hervorragendes Verhältnis von Festigkeit zu Gewicht und eine hohe Beständigkeit gegen mechanische Beschädigungen gewährleistet. Der Griff wird in präziser CNC-Bearbeitung hergestellt, anschließend eloxiert und mit einer speziellen, rutschfesten Struktur versehen, die auch mit Handschuhen oder nassen Händen einen sicheren Halt garantiert.
 
-Metalowa konstrukcja znacząco przewyższa trwałością standardowe uchwyty z tworzywa, oferując większy udźwig oraz długą żywotność w wymagających warunkach terenowych.
+Die Metallkonstruktion übertrifft die Haltbarkeit von Standard-Kunststoffgriffen deutlich und bietet eine größere Tragfähigkeit und eine lange Lebensdauer unter anspruchsvollen Feldbedingungen.
 
-### Funkcjonalność i bezpieczeństwo
+### Funktionalität und Sicherheit
 
-Zintegrowany zbijak do szyb oraz przecinak do pasów bezpieczeństwa czynią z uchwytu realne narzędzie ratunkowe, które może okazać się kluczowe w sytuacjach awaryjnych podczas wypraw terenowych. To praktyczne rozwiązanie zwiększające bezpieczeństwo załogi bez konieczności montażu dodatkowych akcesoriów w kabinie.
+Der integrierte Glasbrecher und Gurtschneider machen den Griff zu einem echten Rettungsgerät, das in Notsituationen bei Offroad-Expeditionen von entscheidender Bedeutung sein kann. Dies ist eine praktische Lösung, die die Sicherheit der Besatzung erhöht, ohne dass zusätzliches Zubehör in der Kabine installiert werden muss.
 
-### Montaż
+### Installation
 
-- Dopasowanie do fabrycznych punktów montażowych  
-- Instalacja typu „plug & play"  
-- Bezinwazyjny montaż – bez wiercenia i modyfikacji wnętrza  
+- Anpassung an werkseitige Befestigungspunkte
+- Plug & Play-Installation
+- Nicht-invasive Installation – ohne Bohren oder Innenmodifikationen
 
-### Specyfikacja techniczna
+### Technische Spezifikationen
 
-- Materiał: Aluminium lotnicze 6061  
-- Proces produkcji: Obróbka CNC, anodowanie, tekstura antypoślizgowa  
-- Kompatybilność: Ford Bronco  
-- Montaż: klatka / dach (pozycja uniwersalna)  
+- Material: 6061 Flugzeugaluminium
+- Produktionsprozess: CNC-Bearbeitung, Eloxieren, rutschfeste Textur
+- Kompatibilität: Ford Bronco
+- Installation: Käfig / Dach (universelle Position)
 
-### Zawartość zestawu
+### Inhalte festlegen
 
-- Uchwyt Grab Handle / Narzędzie ratunkowe 3w1 – 1 szt.  
+- Haltegriff / 3in1-Rettungsgerät – 1 Stk.

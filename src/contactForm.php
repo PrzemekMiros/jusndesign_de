@@ -5,8 +5,7 @@ header("Access-Control-Allow-Headers: Content-Type");
 header("content-type: application/json; charset=utf-8");
 
 $is_ajax = isset($_SERVER["HTTP_X_REQUESTED_WITH"]) && strtolower($_SERVER["HTTP_X_REQUESTED_WITH"]) === "xmlhttprequest";
-$lang = isset($_POST["form_lang"]) ? strtolower(trim($_POST["form_lang"])) : "pl";
-$success_redirect = ($lang === "en") ? "/en/sendform/" : "/wyslano-formularz/";
+$success_redirect = "/formular-gesendet/";
 
 $email = isset($_POST["visitor_mail"]) ? trim($_POST["visitor_mail"]) : "";
 $name = isset($_POST["visitor_name"]) ? trim($_POST["visitor_name"]) : "";
@@ -39,7 +38,7 @@ if ($email_sent && !$is_ajax) {
 }
 
 if ($email_sent) {
-    $success_message = "Dziekujemy za kontakt. Odpowiemy najszybciej jak to mozliwe.";
+    $success_message = "Vielen Dank für Ihre Kontaktaufnahme. Wir antworten so schnell wie möglich.";
     $json = array("status" => 1, "msg" => "<p class='status_ok'>$success_message</p>");
 } else {
     $json = array("status" => 0, "msg" => "<p class='status_err'>Wystapil problem z wyslaniem formularza.</p>");

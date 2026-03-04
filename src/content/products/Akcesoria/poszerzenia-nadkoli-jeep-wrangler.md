@@ -1,9 +1,8 @@
 ---
-lang: pl
+lang: de
 layout: "layouts/product.njk"
-permalink: /produkty/poszerzenia-nadkoli-jeep-wrangler/
-title: Poszerzenia nadkoli Jeep Wrangler JL / Gladiator JT z oświetleniem – 4 szt.
-description: Wytrzymałe poszerzenia nadkoli JUSN do Jeep Wrangler JL oraz Gladiator JT to profesjonalna modyfikacja off-road, zaprojektowana z myślą o montażu większych opon, zwiększeniu prześwitu oraz poprawie funkcjonalności pojazdu w terenie. Zestaw 4 sztuk (przód + tył) zapewnia agresywny wygląd, lepszą ochronę karoserii oraz pełną gotowość do wymagających wypraw.
+title: Jeep Wrangler JL / Gladiator JT Radlaufverbreiterungen mit Beleuchtung – 4 Stk.
+description: Die langlebigen JUSN-Radlaufverlängerungen für Jeep Wrangler JL und Gladiator JT sind eine professionelle Offroad-Modifikation, die für den Einbau größerer Reifen, eine Erhöhung der Bodenfreiheit und eine Verbesserung der Offroad-Funktionalität des Fahrzeugs entwickelt wurde. Ein Satz aus 4 Teilen (vorne + hinten) sorgt für einen aggressiven Look, Körperschutz und volle Bereitschaft für anspruchsvolle Expeditionen.
 productImage: /content/products/img/poszerzenia-nadkoli-jusn.jpg
 galleryImages:
   - /content/products/img/posz-2.png
@@ -15,7 +14,7 @@ galleryImages:
   - /content/products/img/posz-8.png
 
 categories:
-  - Inne akcesoria
+  - Weiteres Zubehor
 price: 0
 order: 7
 
@@ -27,53 +26,53 @@ compatibleWith:
 installation:
   difficulty: 1
   professional_required: false
-  method: Montaż śrubowy / szybki montaż
+  method: Schraubmontage / Schnellmontage
 ---
 
-# Dlaczego warto wybrać poszerzenia JUSN?
+# Warum JUSN-Erweiterungen wählen?
 
-Fabryczne nadkola często ograniczają możliwości zwiększenia średnicy lub rozstawu kół. Poszerzone nadkola JUSN zostały zaprojektowane tak, aby zapewnić dodatkową przestrzeń roboczą, zwiększyć funkcjonalność pojazdu oraz nadać mu bardziej terenowy, off-roadowy charakter.
+Werkseitige Radkästen eröffnen oft die Möglichkeiten zur Vergrößerung des Durchmessers oder der Spurweite ein. Die verbreiterten Radkästen des JUSN wurden entwickelt, um zusätzlichen Arbeitsraum zu bieten, die Funktionalität des Fahrzeugs zu erhöhen und ihm einen Offroad-Charakter zu verleihen.
 
-## Najważniejsze cechy produktu
+## Die wichtigsten Merkmale des Produkts
 
-- Podniesienie funkcjonalne – ok. +2 cale względem standardu OE  
-- Przystosowane do większych opon i liftu zawieszenia 2"  
-- Wbudowane kierunkowskazy zwiększające widoczność i bezpieczeństwo  
-- Szeroka konstrukcja chroniąca nadwozie przed błotem i kamieniami  
-- Agresywny, terenowy design dopasowany do Jeep JL i JT  
-- Możliwość wykorzystania jako praktyczna powierzchnia robocza w terenie  
+- Funktionelle Höherlegung – ca. +2 Zoll über dem Erstausrüsterstandard
+- Angepasst an einen größeren Reifen und einen 2-Zoll-Federungshub
+- Integrierte Blinker erhöhen die Sichtbarkeit und Sicherheit
+- Breites Design, das den Körper vor Schlamm und Steinen schützt
+- Aggressives Offroad-Design, maßgeschneidert für Jeep JL und JT
+- Kann als praktische Arbeitsfläche im Feld verwendet werden
 
-## Materiał i wykonanie
+## Material und Verarbeitung
 
-Poszerzenia nadkoli wykonane są z wysokiej jakości stopu aluminium 6061 oraz stali węglowej Q235, co zapewnia doskonałą wytrzymałość mechaniczną oraz odporność na uszkodzenia w trudnym terenie.  
+Die Radlaufverbreiterungen bestehen aus einer hochwertigen 6061-Aluminiumlegierung und Q235-Kohlenstoffstahl, was eine hervorragende mechanische Festigkeit und Widerstandsfähigkeit gegen Beschädigungen in schwierigem Gelände gewährleistet.
 
-Powierzchnia wykończona metodą lakierowania natryskowego (spraying coating) gwarantuje wysoką odporność na promieniowanie UV, korozję, błoto oraz warunki atmosferyczne.
+Die mit Sprühbeschichtung veredelte Oberfläche garantiert eine hohe Beständigkeit gegen UV-Strahlung, Korrosion, Schlamm und Witterungseinflüsse.
 
-Dzięki solidnej konstrukcji metalowej produkt jest znacznie trwalszy od standardowych plastikowych nadkoli i lepiej sprawdza się w zastosowaniach off-road.
+Dank der soliden Metallkonstruktion ist das Produkt wesentlich langlebiger als Standard-Radkästen aus Kunststoff und eignet sich besser für den Offroad-Einsatz.
 
-## Funkcjonalność w terenie
+## Offroad-Funktionalität
 
-Poszerzone nadkola zapewniają większy zakres pracy zawieszenia oraz dodatkową przestrzeń dla większych opon, co przekłada się na lepszą trakcję i możliwości terenowe.  
+Verbreiterte Radkästen bieten einen größeren Federungsbereich und zusätzlichen Platz für größere Reifen, was sich in besserer Traktion und Geländetauglichkeit niederschlägt.
 
-Zintegrowane sygnały kierunkowskazów zwiększają widoczność pojazdu podczas jazdy w nocy oraz w trudnym terenie.
+Integrierte Blinker erhöhen die Sichtbarkeit des Fahrzeugs bei Nachtfahrten und in schwierigem Gelände.
 
-Dodatkowa wysokość konstrukcji pozwala również wykorzystać nadkole jako stabilną powierzchnię pomocniczą – np. do rozłożenia mapy, sprzętu lub akcesoriów podczas postoju w terenie.
+Durch die zusätzliche Höhe des Aufbaus können Sie den Radkasten auch als stabile Hilfsfläche nutzen – z.B. Um beim Parken auf dem Feld eine Karte, Ausrüstung oder Zubehör auszubreiten.
 
-## Montaż
+## Installation
 
-- Dopasowanie do fabrycznych otworów montażowych  
-- Montaż bez wiercenia i ingerencji w karoserię  
-- Instalacja typu „plug & play”  
+- Anpassung an werkseitige Befestigungslöcher
+- Montage ohne Bohren oder Eingriffe in die Karosserie
+- Plug & Play-Installation
 
-## Specyfikacja techniczna
+## Technische Spezifikationen
 
-- **Kompatybilność:** Jeep Wrangler JL / Jeep Gladiator JT  
-- **Materiał:** Aluminium 6061 + stal Q235  
-- **Powłoka:** Lakierowanie natryskowe  
-- **Oświetlenie:** Zintegrowane kierunkowskazy  
-- **Zestaw:** 4 elementy (przód + tył)  
-- **Waga przesyłki:** ok. 31 kg  
+- **Kompatibilität:** Jeep Wrangler JL / Jeep Gladiator JT
+- **Material:** Aluminium 6061 + Stahl Q235
+- **Beschichtung:** Sprühlackierung
+- **Beleuchtung:** Integrierter Blinker
+- **Set:** 4 Stück (vorne + hinten)
+- **Versandgewicht:** ca. 31kg
 
-## Zawartość zestawu
+## Inhalte festlegen
 
-- Poszerzenia nadkoli – komplet 4 szt.
+- Radlaufverbreiterungen – Satz a 4 Stück.

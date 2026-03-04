@@ -1,12 +1,11 @@
 ---
-lang: pl
+lang: de
 layout: "layouts/product.njk"
-permalink: /produkty/stolik-turystyczny-do-zabudowy-jd10-jd13/
-title: Stolik turystyczny do zabudowy JD10 i JD13
-description: Składany stolik przeznaczony do platform JD-10 oraz JD-13. Praktyczny, kompaktowy i łatwy do przechowywania.
+title: Eingebauter Touristentisch JD10 und JD13
+description: Klapptisch für die Plattformen JD-10 und JD-13. Praktisch, kompakt und leicht zu verstauen.
 productImage: /content/products/img/skladany-stolik.jpg
 categories:
-  - Inne akcesoria
+  - Weiteres Zubehor
 price: 0
 order: 7
 
@@ -18,5 +17,5 @@ compatibleWith:
 installation:
   difficulty: 1
   professional_required: false
-  method: Montaż śrubowy / szybki montaż
+  method: Schraubmontage / Schnellmontage
 ---

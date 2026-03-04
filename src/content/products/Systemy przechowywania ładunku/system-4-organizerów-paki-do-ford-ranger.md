@@ -1,20 +1,19 @@
 ---
-lang: pl
-permalink: /produkty/zabudowa-bed-rack-jd-3-ford-ranger/
-title: Zabudowa bed rack JD3 Ford Ranger
-description: Profesjonalny system cargo JUSN dla modeli Ford. Aluminiowa konstrukcja, 4 skrzynie transportowe po 25L i zintegrowane oświetlenie paki.
+lang: de
+title: JD3 Ford Ranger Bettgestell
+description: Professionelles JUSN-Ladesystem für Ford-Modelle. Aluminiumstruktur, 4 Transportboxen a 25 l und integrierte Boxbeleuchtung.
 productImage: /content/products/img/bed-box-ford-ranger.jpg
 categories:
-  - Systemy przechowywania ładunku
+  - Ladungsspeichersysteme
 price: 3499
 order: 7
 
 # Dane techniczne dla szablonu
 brand: JUSN
-material: Stop aluminium (6061), stal węglowa (Q235)
-process: Grawerowanie CNC, anodowanie i malowanie proszkowe
+material: Aluminiumlegierung (6061), Kohlenstoffstahl (Q235)
+process: CNC-Gravur, Eloxierung und Pulverbeschichtung
 weight: 106
-shippingInfo: Czas realizacji wynosi 15 dni. Wysyłka morska i lądowa zajmuje łącznie około 40 dni.
+shippingInfo: Die Bearbeitungszeit beträgt 15 Tage. Der See- und Landversand dauert insgesamt etwa 40 Tage.
 Installation:
   difficulty: 4
   professional_required: true
@@ -22,32 +21,32 @@ Installation:
 ---
 
 
-Spełnij wszystkie swoje marzenia o idealnej organizacji paki. System JUSN to zaawansowana zabudowa cargo, która zmieni sposób, w jaki wykorzystujesz przestrzeń ładunkową swojego Forda.
+Verwirklichen Sie alle Ihre Träume von einer perfekten Rucksackorganisation. Das JUSN-System ist eine fortschrittliche Ladestruktur, die die Art und Weise, wie Sie den Laderaum Ihres Ford nutzen, verändern wird.
 
-### Dlaczego warto wybrać JUSN?
-Zrealizuj marzenie o profesjonalnym porządku na pace dzięki systemowi JUSN!
+### Warum JUSN wählen?
+Verwirklichen Sie Ihren Traum von professionell organisierten LKWs dank des JUSN-Systems!
 
-### Szczegóły techniczne:
-* **MATERIAŁ:** Wysokiej jakości stop aluminium (6061) oraz wzmocniona stal węglowa (Q235).
-* **PROCES:** Precyzyjna obróbka CNC, proces anodowania oraz trwałe malowanie proszkowe (natryskowe).
+### Technische Details:
+* **MATERIAL:** Hochwertige Aluminiumlegierung (6061) und verstärkter Kohlenstoffstahl (Q235).
+* **VERFAHREN:** Präzise CNC-Bearbeitung, Eloxierungsverfahren und dauerhafte Pulverbeschichtung (Sprühen).
 
-### Główne cechy:
-* **Unikalny styl:** Zintegrowane tłoczenie i precyzyjna obróbka CNC nadają Twojemu Fordowi techniczny, agresywny wygląd, który wyróżnia się na każdej drodze i bezdrożach.
-* **Odporność na warunki atmosferyczne:** Specjalne wykończenie anodowane i proszkowe chroni przed promieniami UV, kwaśnym deszczem i korozją, zapewniając trwałość systemu na lata użytkowania w terenie.
-* **Wygodny dostęp boczny:** Górne siłowniki hydrauliczne pozwalają na otwarcie stelaża na boki, co umożliwia szybki załadunek i rozładunek bagażu bezpośrednio z boku pojazdu.
-* **Zorganizowane przechowywanie:** Po każdej stronie znajdują się cztery przestronne skrzynie o pojemności 25 litrów (łącznie 100L), idealne do segregacji narzędzi, szpeju i akcesoriów wyprawowych.
-* **Praktyczny design:** Zewnętrzna strona skrzyń posiada ażurową konstrukcję, co pozwala na wygodne troczenie mniejszych przedmiotów, które musisz mieć pod ręką.
-* **Bezpieczeństwo przede wszystkim:** Zwiększ widoczność swojego pojazdu w nocy. System posiada zintegrowane oświetlenie, które można połączyć ze światłami hamowania, obrysywymi oraz do jazdy dziennej.
-* **Multifunkcyjny bagażnik górny:** Platforma dachowa idealnie nadaje się do przewożenia wielkogabarytowych przedmiotów, takich jak namioty dachowe, walizki transportowe czy koło zapasowe.
-* **Wewnętrzna rozbudowa:** Dodatkowe panele (expansion boards) wewnątrz skrzyń pozwalają na montaż uchwytów i mniejszego osprzętu zgodnie z Twoimi wymaganiami.
+### Hauptmerkmale:
+* **Einzigartiger Stil:** Integrierte Prägung und präzise CNC-Bearbeitung verleihen Ihrem Ford ein technisches, aggressives Aussehen, das auf jeder Straße und im Gelände auffällt.
+* **Witterungsbeständigkeit:** Eine spezielle eloxierte und pulverbeschichtete Oberfläche schützt vor UV-Strahlen, saurem Regen und Korrosion und stellt sicher, dass das System jahrelang im Feldeinsatz hält.
+* **Bequemer seitlicher Zugang:** Obere Hydraulikzylinder ermöglichen das seitliche Öffnen des Rahmens, was ein schnelles Be- und Entladen von Gepäck direkt von der Seite des Fahrzeugs ermöglicht.
+* **Organisierte Aufbewahrung:** Auf jeder Seite befinden sich vier geräumige Boxen mit einem Fassungsvermögen von 25 Litern (insgesamt 100 Liter), ideal für die getrennte Aufbewahrung von Werkzeugen, Ausrüstung und Expeditionszubehör.
+* **Praktisches Design:** Die Außenseite der Boxen verfügt über eine durchbrochene Struktur, die es Ihnen ermöglicht, kleinere Gegenstände, die Sie schnell zur Hand haben müssen, bequem zu transportieren.
+* **Sicherheit geht vor:** Erhöhen Sie die Sichtbarkeit Ihres Fahrzeugs bei Nacht. Das System verfügt über eine integrierte Beleuchtung, die mit Brems-, Seitenmarkierungs- und Tagfahrlicht kombiniert werden kann.
+* **Multifunktions-Oberträger:** Die Dachplattform ist ideal für den Transport großformatiger Gegenstände wie Dachzelte, Transportkoffer oder ein Reserverad.
+* **Interne Erweiterung:** Zusätzliche Panels (Erweiterungsplatinen) im Inneren der Boxen ermöglichen Ihnen die Installation von Griffen und kleineren Zubehörteilen entsprechend Ihren Anforderungen.
 
-### Informacje o montażu:
-* **Dopasowanie:** Opracowane na podstawie danych fabrycznych pojazdu (OE) – system typu "Plug & Play".
-* **Poziom trudności:** 4/5 (wymagane doświadczenie techniczne).
-* **Wymagany profesjonalny montaż:** TAK.
+### Informationen zur Montage:
+* **Ausstattung:** Entwickelt auf Basis der Werksdaten (OE) des Fahrzeugs – „Plug & Play“-System.
+* **Schwierigkeitsgrad:** 4/5 (technische Erfahrung erforderlich).
+* **Professionelle Installation erforderlich:** ME.
 
-### Zawartość zestawu:
-* 1 kompletny zestaw systemu stelaży z organizerami i oświetleniem.
+### Inhalt des Sets:
+* 1 Satz Rahmensystem mit Organizern und Beleuchtung.
 
 
 

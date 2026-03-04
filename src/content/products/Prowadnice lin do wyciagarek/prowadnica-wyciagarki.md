@@ -1,71 +1,70 @@
 ---
-lang: pl
-title: Ślizg wyciągarki z hakiem holowniczym 
-permalink: /produkty/slizg-wyciagarki-z-hakiem-holowniczym/
-description: Profesjonalny ślizg wyciągarki JUSN zintegrowany z hakiem holowniczym to wysokiej klasy komponent off-road zaprojektowany do użytku z linami syntetycznymi w pojazdach terenowych i wyprawowych. Wykonany z aluminium lotniczego 7075, zapewnia maksymalną wytrzymałość, niską wagę oraz skuteczną ochronę liny podczas pracy wyciągarki w najtrudniejszych warunkach.
+lang: de
+title: Windenschlitten mit Anhängerkupplung
+description: Der in die Anhängerkupplung integrierte professionelle JUSN-Windenschlitten ist eine hochwertige Offroad-Komponente für den Einsatz mit Kunststoffseilen in Offroad- und Expeditionsfahrzeugen. Hergestellt aus Flugzeugaluminium 7075 sorgt es für maximale Festigkeit, geringes Gewicht und wirksamen Schutz des Seils beim Windbetrieb unter schwierigsten Bedingungen.
 productImage: /content/products/img/prowadnica-wyciagarki.jpg
 categories:
-  - Prowadnice lin wyciągarek
+  - Seilführungen für Winden
 price: 450
 order: 1
 
 # Dane techniczne dla szablonu
 brand: JUSN
-material: Aluminium lotnicze (7075)
-process: Kucie, piaskowanie i anodowanie
+material: Luftfahrtaluminium (7075)
+process: Schmieden, Sandstrahlen und Eloxieren
 weight: 2.5
-shippingInfo: Czas realizacji wynosi 15 dni. Wysyłka morska i lądowa zajmuje łącznie około 40 dni.
+shippingInfo: Die Bearbeitungszeit beträgt 15 Tage. Der See- und Landversand dauert insgesamt etwa 40 Tage.
 Installation:
   difficulty: 1
   professional_required: false
-  method: Bezpośredni montaż (Plug & Play)
+  method: Direktmontage (Plug & Play)
 ---
 
-### Najważniejsze cechy
+### Hauptmerkmale
 
-- Zintegrowany ślizg wyciągarki + hak holowniczy w jednym elemencie  
-- Dedykowany do lin syntetycznych  
-- Wysoka odporność na zużycie i uszkodzenia mechaniczne  
-- Skuteczna ochrona liny przed strzępieniem i przegrzewaniem  
-- Nowoczesny design  
+- Integrierter Windenschlitten + Abschlepphaken in einem Element
+- Speziell für synthetische Seile
+- Hohe Beständigkeit gegen Verschleiß und mechanische Beschädigung
+- Wirksamer Schutz des Seils vor Ausfransen und Überhitzung
+- Modernes Design
 
-### Materiał i technologia wykonania
+### Material- und Fertigungstechnologie
 
-Ślizg wykonany jest z wysokiej jakości aluminium lotniczego 7075, znanego z bardzo wysokiej wytrzymałości przy zachowaniu niskiej masy. Proces kucia pod prasą zwiększa integralność strukturalną materiału, a następnie powierzchnia poddawana jest piaskowaniu oraz anodowaniu ochronnemu, co zapewnia doskonałą odporność na korozję, promieniowanie UV, błoto oraz trudne warunki atmosferyczne.
+Die Basis besteht aus hochwertigem Flugzeugaluminium 7075, das für seine sehr hohe Festigkeit bei gleichzeitig geringem Gewicht bekannt ist. Der Pressschmiedeprozess erhöht die strukturelle Integrität des Materials. Anschließend wird die Oberfläche sandgestrahlt und schützend eloxiert, was eine hervorragende Beständigkeit gegen Korrosion, UV-Strahlung, Schlamm und schwierige Wetterbedingungen bietet.
 
-Polerowana powierzchnia robocza minimalizuje tarcie i ogranicza nagrzewanie się liny syntetycznej, co znacząco wydłuża jej żywotność i poprawia bezpieczeństwo pracy wyciągarki.
+Die polierte Arbeitsfläche minimiert die Reibung und begrenzt die Erwärmung des Kunststoffseils, was seine Lebensdauer erheblich verlängert und die Sicherheit der Winde verbessert.
 
-### Funkcjonalność w terenie
+### Offroad-Funktionalität
 
-Konstrukcja ślizgu została zaprojektowana tak, aby zapewnić płynne prowadzenie liny bez ryzyka jej plątania czy uszkodzeń podczas intensywnego użytkowania. Zintegrowany hak holowniczy zwiększa funkcjonalność zestawu, umożliwiając szybkie operacje ratunkowe oraz holowanie w terenie bez potrzeby montażu dodatkowych elementów.
+Die Struktur der Rutsche wurde so konzipiert, dass ein reibungsloser Lauf des Seils gewährleistet ist, ohne dass die Gefahr von Verwicklungen oder Beschädigungen bei intensiver Nutzung besteht. Der integrierte Abschlepphaken erhöht die Funktionalität des Sets und ermöglicht schnelle Rettungseinsätze und das Abschleppen im Gelände, ohne dass zusätzliche Elemente installiert werden müssen.
 
-Produkt doskonale sprawdzi się w pojazdach takich jak:
+Das Produkt eignet sich perfekt für bekannte Fahrzeuge:
 
-- Jeep (Wrangler, Gladiator)  
-- Toyota (Hilux, Land Cruiser)  
-- Ford (Ranger, Raptor, F-150)  
-- RAM, Nissan, Chevy, GMC oraz inne pojazdy 4x4 i pick-up  
+- Jeep (Wrangler, Gladiator)
+- Toyota (Hilux, Land Cruiser)
+- Ford (Ranger, Raptor, F-150)
+- RAM, Nissan, Chevy, GMC und andere 4x4-Fahrzeuge und Pickup-Trucks
 
-### Montaż
+### Installation
 
-- Instalacja typu „plug & play"  
-- Bez wiercenia i cięcia zderzaka  
-- Zgodność ze standardowymi rozstawami montażowymi (OE Matching)  
-- Poziom trudności: 1/5 (bardzo łatwy montaż)  
-- Montaż możliwy samodzielnie w kilka minut  
+- Plug & Play-Installation
+- Kein Bohren oder Schneiden der Stoßstange
+- Kompatibilität mit Standard-Montageabständen (OE-Matching)
+- Schwierigkeitsgrad: 1/5 (sehr einfache Montage)
+- Sie können es in wenigen Minuten selbst zusammenbauen
 
-### Specyfikacja techniczna
+### Technische Spezifikationen
 
-- Materiał: Aluminium lotnicze 7075  
-- Proces produkcji: Kucie, piaskowanie, anodowanie  
-- Waga: ok. 2,5 kg  
-- Typ: Ślizg wyciągarki (Hawse Fairlead) do lin syntetycznych  
-- Zintegrowany element: hak holowniczy  
+- Material: 7075 Flugzeugaluminium
+- Produktionsprozess: Schmieden, Sandstrahlen, Eloxieren
+- Gewicht: ca. 2,5 kg
+- Typ: Windenschuh (Hawse Fairlead) für synthetische Seile
+- Integriertes Element: Anhängerkupplung
 
-### Zawartość zestawu
+### Inhalte festlegen
 
-- Ślizg wyciągarki zintegrowany z hakiem holowniczym – 1 szt.  
+- Windenschlitten integriert in den Abschlepphaken – 1 Stk.
 
-### Wskazówka
+### Tipp
 
-Ślizg typu Hawse Fairlead przeznaczony jest wyłącznie do lin syntetycznych. W przypadku stosowania liny stalowej zaleca się użycie prowadnicy rolkowej (roller fairlead), aby uniknąć uszkodzeń liny i elementów wyciągarki.
+Der Schuh vom Typ Hawse Fairlead ist nur für synthetische Seile vorgesehen. Bei Verwendung eines Stahlseils wird die Verwendung einer Rollenseilführung empfohlen, um Schäden am Seil und den Windenkomponenten zu vermeiden.
