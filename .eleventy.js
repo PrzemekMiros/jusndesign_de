@@ -29,6 +29,7 @@ module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("src/content/products/img"); 
     eleventyConfig.addPassthroughCopy("src/static");
     eleventyConfig.addPassthroughCopy("src/admin");
+    eleventyConfig.addPassthroughCopy("src/.htaccess");
     eleventyConfig.addPassthroughCopy("tasks.json");
     eleventyConfig.addWatchTarget("src/assets/sass");
     eleventyConfig.ignores.add("src/admin/**");
