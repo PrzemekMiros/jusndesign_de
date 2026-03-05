@@ -1,4 +1,4 @@
 {
-    "permalink": "/de/projekte/{{ title | slugify }}/",
+    "permalink": "/projekte/{{ title | slugify }}/",
     "robots": "noindex"
 }

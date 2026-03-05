@@ -3,7 +3,7 @@ lang: de
 layout: "layouts/product.njk"
 title: Installation des Bettgestells JD13
 description: Die Struktur verfügt über verschiedene Konfigurationen, seitliche Staufächer, interne einziehbare Molle-Platten, einziehbare Plattformen, Aufbewahrungsorganisatoren und andere optionale Lösungen. Für die Installation ist keine Demontage des Rollladens Ihres Pickups erforderlich
-permalink: /de/produkte/installation-des-bettgestells-jd13-jeep-gladiator/
+permalink: /produkte/installation-des-bettgestells-jd13-jeep-gladiator/
 productImage: /content/products/img/organizer-paki-toyota-tundra.jpg
 categories:
   - Ladungsspeichersysteme

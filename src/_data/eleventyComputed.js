@@ -1,21 +1,7 @@
 module.exports = {
   lang: () => "de",
-  langPrefix: () => "/de",
+  langPrefix: () => "",
   permalink: (data) => {
-    const langPrefix = "/de";
-
-    const withLangPrefix = (path) => {
-      if (path === "/") {
-        return `${langPrefix}/`;
-      }
-
-      if (path === langPrefix || path.startsWith(`${langPrefix}/`)) {
-        return path;
-      }
-
-      return `${langPrefix}${path}`;
-    };
-
     if (data.permalink === false) {
       return false;
     }
@@ -32,15 +18,22 @@ module.exports = {
       return data.permalink;
     }
 
+    if (data.permalink.startsWith("/de/")) {
+      return data.permalink.slice(3);
+    }
+
+    if (data.permalink === "/de") {
+      return "/";
+    }
+
     if (data.permalink.startsWith("/pl/")) {
-      return withLangPrefix(data.permalink.slice(3));
+      return data.permalink.slice(3);
     }
 
     if (data.permalink === "/pl") {
-      return `${langPrefix}/`;
+      return "/";
     }
 
-    const normalized = data.permalink.startsWith("/") ? data.permalink : `/${data.permalink}`;
-    return withLangPrefix(normalized);
+    return data.permalink.startsWith("/") ? data.permalink : `/${data.permalink}`;
   },
 };

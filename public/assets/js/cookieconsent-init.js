@@ -1,5 +1,5 @@
-ï»¿const ccLang = "de";
-const contactLink = "/de/kontakt";
+const ccLang = "de";
+const contactLink = "/kontakt";
 const revisionLabel = "Cookie-Einstellungen";
 
 document.documentElement.classList.add("cc--darkmode");
@@ -49,21 +49,21 @@ CookieConsent.run({
                     acceptAllBtn: "Akzeptieren",
                     acceptNecessaryBtn: "Ablehnen",
                     savePreferencesBtn: "Speichern Sie Ihre Einstellungen",
-                    closeIconLabel: "SchlieÃŸen",
+                    closeIconLabel: "Schließen",
                     serviceCounterLabel: "Service|Dienstleistungen",
                     sections: [
                         {
                             title: "Verwendung von Cookies",
-                            description: "Da wir Ihr Recht auf PrivatsphÃ¤re respektieren, kÃ¶nnen Sie sich dafÃ¼r entscheiden, bestimmte Arten von Cookies nicht zuzulassen. Klicken Sie auf die verschiedenen KategorieÃ¼berschriften, um mehr zu erfahren und die Standardeinstellungen zu Ã¤ndern."
+                            description: "Da wir Ihr Recht auf Privatsphäre respektieren, können Sie sich dafür entscheiden, bestimmte Arten von Cookies nicht zuzulassen. Klicken Sie auf die verschiedenen Kategorieüberschriften, um mehr zu erfahren und die Standardeinstellungen zu ändern."
                         },
                         {
                             title: "Notwendige Cookies<span class=\"pm__badge\">Immer aktiv</span>",
-                            description: "Diese Cookies sind fÃ¼r das Funktionieren der Website unerlÃ¤sslich und kÃ¶nnen in unseren Systemen nicht deaktiviert werden. Sie werden in der Regel nur als Reaktion auf von Ihnen durchgefÃ¼hrte Aktionen festgelegt, die einer Anforderung von Diensten gleichkommen, z. B. das Festlegen Ihrer Datenschutzeinstellungen, das Anmelden oder das AusfÃ¼llen von Formularen. Diese Cookies speichern keine personenbezogenen Daten.",
+                            description: "Diese Cookies sind für das Funktionieren der Website unerlässlich und können in unseren Systemen nicht deaktiviert werden. Sie werden in der Regel nur als Reaktion auf von Ihnen durchgeführte Aktionen festgelegt, die einer Anforderung von Diensten gleichkommen, z. B. das Festlegen Ihrer Datenschutzeinstellungen, das Anmelden oder das Ausfüllen von Formularen. Diese Cookies speichern keine personenbezogenen Daten.",
                             linkedCategory: "necessary"
                         },
                         {
                             title: "Funktionelle Cookies",
-                            description: "Funktionale Cookies helfen dabei, bestimmte Funktionen auszufÃ¼hren, z. B. das Teilen von Website-Inhalten auf Social-Media-Plattformen, das Sammeln von Feedback und andere Funktionen Dritter.",
+                            description: "Funktionale Cookies helfen dabei, bestimmte Funktionen auszuführen, z. B. das Teilen von Website-Inhalten auf Social-Media-Plattformen, das Sammeln von Feedback und andere Funktionen Dritter.",
                             linkedCategory: "functionality"
                         },
                         {
@@ -73,12 +73,12 @@ CookieConsent.run({
                         },
                         {
                             title: "Werbe-Cookies",
-                            description: "Werbe-Cookies werden verwendet, um fÃ¼r Sie relevante Werbung auszuliefern. Sie helfen dabei, die Wirksamkeit von Werbung zu messen, beispielsweise die Anzahl der Besuche und Klicks.",
+                            description: "Werbe-Cookies werden verwendet, um für Sie relevante Werbung auszuliefern. Sie helfen dabei, die Wirksamkeit von Werbung zu messen, beispielsweise die Anzahl der Besuche und Klicks.",
                             linkedCategory: "marketing"
                         },
                         {
                             title: "Weitere Informationen",
-                            description: `Wenn Sie Fragen zu unserer Cookie-Richtlinie haben, kontaktieren Sie uns bitte Ã¼ber <a class="cc__link" href="${contactLink}">Kontakt</a>.`
+                            description: `Wenn Sie Fragen zu unserer Cookie-Richtlinie haben, kontaktieren Sie uns bitte über <a class="cc__link" href="${contactLink}">Kontakt</a>.`
                         }
                     ]
                 }
