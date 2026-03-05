@@ -5,7 +5,7 @@ header("Access-Control-Allow-Headers: Content-Type");
 header("content-type: application/json; charset=utf-8");
 
 $is_ajax = isset($_SERVER["HTTP_X_REQUESTED_WITH"]) && strtolower($_SERVER["HTTP_X_REQUESTED_WITH"]) === "xmlhttprequest";
-$success_redirect = "/formular-gesendet/";
+$success_redirect = "/de/formular-gesendet/";
 
 $email = isset($_POST["visitor_mail"]) ? trim($_POST["visitor_mail"]) : "";
 $name = isset($_POST["visitor_name"]) ? trim($_POST["visitor_name"]) : "";

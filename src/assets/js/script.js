@@ -219,7 +219,7 @@ function appMain() {
 			if (statusEl) statusEl.innerHTML = "";
 
 			const formData = new FormData(form);
-			const successRedirect = "/formular-gesendet/";
+			const successRedirect = "/de/formular-gesendet/";
 
 			fetch(form.action, {
 				method: "POST",
