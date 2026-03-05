@@ -3,7 +3,7 @@ lang: de
 layout: "layouts/product.njk"
 title: Installation des Bettgestells JD13
 description: Die Struktur verfügt über verschiedene Konfigurationen, seitliche Staufächer, interne einziehbare Molle-Platten, einziehbare Plattformen, Aufbewahrungsorganisatoren und andere optionale Lösungen. Für die Installation ist keine Demontage des Rollladens Ihres Pickups erforderlich
-permalink: /produkte/installation-des-bettgestells-jd13-modular/
+permalink: /de/produkte/installation-des-bettgestells-jd13-modular/
 productImage: /content/products/img/modulowy-bagznik.png
 categories:
   - Ladungsspeichersysteme

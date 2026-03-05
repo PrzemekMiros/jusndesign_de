@@ -3,7 +3,7 @@ lang: de
 layout: "layouts/product.njk"
 title: Installation des Bettgestells JD13
 description: Die Struktur verfügt über verschiedene Konfigurationen, seitliche Staufächer, interne einziehbare Molle-Platten, einziehbare Plattformen, Aufbewahrungsorganisatoren und andere optionale Lösungen. Für die Installation ist keine Demontage des Rollladens Ihres Pickups erforderlich
-permalink: /produkte/installation-des-bettgestells-jd13-jeep-gladiator/
+permalink: /de/produkte/installation-des-bettgestells-jd13-jeep-gladiator/
 productImage: /content/products/img/organizer-paki-toyota-tundra.jpg
 categories:
   - Ladungsspeichersysteme
@@ -36,7 +36,6 @@ Schöpfen Sie das volle Potenzial Ihres Jeeps mit JUSN-Ausrüstung aus!
 * **Aufgeräumter Platz:** Auf jeder Seite befinden sich 4 geräumige Fächer, die ein bequemes Sortieren und schnelles Auffinden benötigter Gegenstände ermöglichen.
 * **Sicherheit geht vor:** Die Möglichkeit, zusätzliche Beleuchtung an das Brems-, Positions- und Tagfahrlicht des Fahrzeugs anzuschließen, erhöht die Sichtbarkeit auf der Straße nach Einbruch der Dunkelheit.
 * **Multifunktionaler Laderaum:** Der obere Kofferraum ist ideal für den Transport größerer Gegenstände, wie Campingzelte oder Koffer – eine perfekte Lösung für Expeditionen und Reisen.
-
 
 
 

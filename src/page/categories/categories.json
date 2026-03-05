@@ -1,4 +1,4 @@
 {
   "layout": "layouts/base-hero.njk",
-  "permalink": "/produkte/{{ category | slug }}/"
+  "permalink": "/de/produkte/{{ category | slug }}/"
 }

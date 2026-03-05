@@ -1,4 +1,4 @@
 {
   "layout": "layouts/product.njk",
-  "permalink": "/produkte/{{ title | slugify }}/"
+  "permalink": "/de/produkte/{{ title | slugify }}/"
 }

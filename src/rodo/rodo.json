@@ -1,5 +1,5 @@
 {
     "layout": "layouts/rodo.njk",
-    "permalink": "/{{ title | slugify }}/",
+    "permalink": "/de/{{ title | slugify }}/",
     "robots": "noindex"
 }
