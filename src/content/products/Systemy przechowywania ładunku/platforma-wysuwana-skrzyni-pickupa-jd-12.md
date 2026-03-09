@@ -5,7 +5,13 @@ title: JD12 ausziehbare Plattform
 description: JD-12 ist eine schwere, ausziehbare Plattform für einen Pick-up-Truck. Konzipiert für Fahrzeuge aller Größen, mit nicht-invasiver Installation und mehreren Dimensionsvarianten.
 productImage: /content/products/img/platforma-wysuwana.png
 galleryImages:
-  - /content/products/img/platforma-wysuwana2.png
+  - /content/products/img/platforma-wysuwana-jd12-1.png
+  - /content/products/img/platforma-wysuwana-jd12-2.png
+  - /content/products/img/platforma-wysuwana-jd12-3.png
+  - /content/products/img/platforma-wysuwana-jd12-4.png
+  - /content/products/img/platforma-wysuwana-jd12-5.png
+  - /content/products/img/platforma-wysuwana-jd12-6.png
+  
 categories:
   - Ladungsspeichersysteme
 price: 0
